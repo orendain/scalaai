@@ -1,0 +1,16 @@
+# Routes
+# This file defines all application routes (Higher priority routes first)
+# ~~~~
+
+# Home page
+GET     /                           controllers.Application.index
+GET     /dotrace                    controllers.Application.dotrace
+GET     /ws                         controllers.Application.websocket
+GET     /submit                     controllers.Application.submit
+
+POST    /submit                     controllers.Application.submitCode
+
+GET    /assets/javascripts/routes   controllers.Routing.javascriptRoutes
+
+# Map static resources from the /public folder to the /assets URL path
+GET     /assets/*file               controllers.Assets.at(path="/public", file)

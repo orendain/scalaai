@@ -1,0 +1,4293 @@
+2015-01-27 18:14:29,320 - [INFO] - from play in pool-6-thread-3 
+Listening for HTTP on /0:0:0:0:0:0:0:0:9000
+
+2015-01-27 18:14:32,861 - [INFO] - from play in play-internal-execution-context-1 
+Application started (Dev)
+
+2015-01-27 18:15:09,677 - [INFO] - from play in play-internal-execution-context-1 
+Application started (Dev)
+
+2015-01-27 18:15:10,109 - [DEBUG] - from application in play-akka.actor.default-dispatcher-6 
+Application: Connecting user
+
+2015-01-27 18:15:10,144 - [INFO] - from play in play-internal-execution-context-1 
+Starting application default Akka system.
+
+2015-01-27 18:15:10,286 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRaceClient: run()
+
+2015-01-27 18:15:10,287 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+EvaluatorManager: load()
+
+2015-01-27 18:15:10,287 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+FileManager: findFiles()
+
+2015-01-27 18:15:10,288 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+FileManager: path = /home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace
+
+2015-01-27 18:15:10,290 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+FileManager: Glob is: 5-*
+
+2015-01-27 18:15:10,291 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+FileManager: file = /home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/5-test.scala
+
+2015-01-27 18:15:10,292 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+FileManager: Saw file 5-test.scala
+
+2015-01-27 18:15:10,292 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+EvaluatorManager: processing /home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/5-test.scala
+
+2015-01-27 18:15:11,860 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+EvaluatorManager: Test Eval = 2
+
+2015-01-27 18:15:13,070 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+EvaluatorManager: Check
+
+2015-01-27 18:15:13,073 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+EvaluatorManager: Answer is: 3
+
+2015-01-27 18:15:13,074 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+EvaluatorManager: done with /home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/5-test.scala
+
+2015-01-27 18:15:13,074 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+EvaluatorManager: returning
+
+2015-01-27 18:15:13,074 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: done loading evals
+
+2015-01-27 18:15:13,078 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRaceClient: Just started.
+
+2015-01-27 18:15:13,078 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:15:13,078 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: UpdateCmd is models.dotrace.Matrix@32c55161
+
+2015-01-27 18:17:38,788 - [DEBUG] - from application in application-akka.actor.default-dispatcher-6 
+DotRaceClient: postStop
+
+2015-01-27 18:17:38,789 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+ClientWS: postStop
+
+2015-01-27 18:17:39,351 - [INFO] - from play in play-internal-execution-context-3 
+Shutdown application default Akka system.
+
+2015-01-27 18:17:39,393 - [INFO] - from play in play-internal-execution-context-3 
+Application started (Dev)
+
+2015-01-27 18:18:20,747 - [INFO] - from play in play-internal-execution-context-4 
+Application started (Dev)
+
+2015-01-27 18:18:21,131 - [DEBUG] - from application in play-akka.actor.default-dispatcher-13 
+Application: Connecting user
+
+2015-01-27 18:18:21,138 - [INFO] - from play in play-internal-execution-context-4 
+Starting application default Akka system.
+
+2015-01-27 18:18:21,166 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRaceClient: run()
+
+2015-01-27 18:18:21,166 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EvaluatorManager: load()
+
+2015-01-27 18:18:21,167 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+FileManager: findFiles()
+
+2015-01-27 18:18:21,168 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+FileManager: path = /home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace
+
+2015-01-27 18:18:21,168 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+FileManager: Glob is: 5-*
+
+2015-01-27 18:18:21,169 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+FileManager: file = /home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/5-test.scala
+
+2015-01-27 18:18:21,169 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+FileManager: Saw file 5-test.scala
+
+2015-01-27 18:18:21,170 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EvaluatorManager: processing /home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/5-test.scala
+
+2015-01-27 18:18:21,458 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EvaluatorManager: Test Eval = 2
+
+2015-01-27 18:18:22,025 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EvaluatorManager: Check
+
+2015-01-27 18:18:22,027 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EvaluatorManager: Answer is: 3
+
+2015-01-27 18:18:22,027 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EvaluatorManager: done with /home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/5-test.scala
+
+2015-01-27 18:18:22,028 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EvaluatorManager: returning
+
+2015-01-27 18:18:22,028 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: done loading evals
+
+2015-01-27 18:18:22,030 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRaceClient: Just started.
+
+2015-01-27 18:18:22,030 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:18:22,030 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is models.dotrace.Matrix@4a7573b8
+
+2015-01-27 18:18:49,380 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Performing step
+
+2015-01-27 18:18:49,381 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: In tick()
+
+2015-01-27 18:18:49,382 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: IntLength 10 and 10
+
+2015-01-27 18:18:49,383 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Player is: 0, 7
+
+2015-01-27 18:18:49,383 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Dot is: 9, 6
+
+2015-01-27 18:18:49,384 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EVALSIZE: 1
+
+2015-01-27 18:18:49,384 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Answer is: 3
+
+2015-01-27 18:18:49,384 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Move is 3
+
+2015-01-27 18:18:49,385 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:18:49,385 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is models.dotrace.Matrix@4a7573b8
+
+2015-01-27 18:19:36,357 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: postStop
+
+2015-01-27 18:19:36,358 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+ClientWS: postStop
+
+2015-01-27 18:19:36,903 - [INFO] - from play in play-internal-execution-context-7 
+Shutdown application default Akka system.
+
+2015-01-27 18:19:36,922 - [INFO] - from play in play-internal-execution-context-7 
+Application started (Dev)
+
+2015-01-27 18:19:37,301 - [DEBUG] - from application in play-akka.actor.default-dispatcher-14 
+Application: Connecting user
+
+2015-01-27 18:19:37,307 - [INFO] - from play in play-internal-execution-context-7 
+Starting application default Akka system.
+
+2015-01-27 18:19:37,333 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: run()
+
+2015-01-27 18:19:37,334 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EvaluatorManager: load()
+
+2015-01-27 18:19:37,334 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+FileManager: findFiles()
+
+2015-01-27 18:19:37,335 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+FileManager: path = /home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace
+
+2015-01-27 18:19:37,335 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+FileManager: Glob is: 5-*
+
+2015-01-27 18:19:37,336 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+FileManager: file = /home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/5-test.scala
+
+2015-01-27 18:19:37,336 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+FileManager: Saw file 5-test.scala
+
+2015-01-27 18:19:37,337 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EvaluatorManager: processing /home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/5-test.scala
+
+2015-01-27 18:19:37,577 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EvaluatorManager: Test Eval = 2
+
+2015-01-27 18:19:38,031 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EvaluatorManager: Check
+
+2015-01-27 18:19:38,034 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EvaluatorManager: Answer is: 3
+
+2015-01-27 18:19:38,034 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EvaluatorManager: done with /home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/5-test.scala
+
+2015-01-27 18:19:38,035 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EvaluatorManager: returning
+
+2015-01-27 18:19:38,035 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: done loading evals
+
+2015-01-27 18:19:38,037 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Just started.
+
+2015-01-27 18:19:38,037 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:19:38,037 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is models.dotrace.Matrix@4a562a7a
+
+2015-01-27 18:21:04,982 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: postStop
+
+2015-01-27 18:21:04,983 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+ClientWS: postStop
+
+2015-01-27 18:21:05,534 - [INFO] - from play in play-internal-execution-context-4 
+Shutdown application default Akka system.
+
+2015-01-27 18:21:05,561 - [INFO] - from play in play-internal-execution-context-4 
+Application started (Dev)
+
+2015-01-27 18:21:05,977 - [DEBUG] - from application in play-akka.actor.default-dispatcher-18 
+Application: Connecting user
+
+2015-01-27 18:21:05,984 - [INFO] - from play in play-internal-execution-context-4 
+Starting application default Akka system.
+
+2015-01-27 18:21:20,182 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRaceClient: postStop
+
+2015-01-27 18:21:20,183 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+ClientWS: postStop
+
+2015-01-27 18:21:20,599 - [DEBUG] - from application in play-akka.actor.default-dispatcher-21 
+Application: Connecting user
+
+2015-01-27 18:21:35,205 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRaceClient: postStop
+
+2015-01-27 18:21:35,206 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+ClientWS: postStop
+
+2015-01-27 18:21:35,771 - [INFO] - from play in play-internal-execution-context-11 
+Shutdown application default Akka system.
+
+2015-01-27 18:21:35,798 - [INFO] - from play in play-internal-execution-context-11 
+Application started (Dev)
+
+2015-01-27 18:21:36,202 - [DEBUG] - from application in play-akka.actor.default-dispatcher-21 
+Application: Connecting user
+
+2015-01-27 18:21:36,208 - [INFO] - from play in play-internal-execution-context-11 
+Starting application default Akka system.
+
+2015-01-27 18:22:09,723 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRaceClient: postStop
+
+2015-01-27 18:22:09,723 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+ClientWS: postStop
+
+2015-01-27 18:22:10,282 - [INFO] - from play in play-internal-execution-context-12 
+Shutdown application default Akka system.
+
+2015-01-27 18:22:10,299 - [INFO] - from play in play-internal-execution-context-12 
+Application started (Dev)
+
+2015-01-27 18:22:10,683 - [DEBUG] - from application in play-akka.actor.default-dispatcher-24 
+Application: Connecting user
+
+2015-01-27 18:22:10,688 - [INFO] - from play in play-internal-execution-context-12 
+Starting application default Akka system.
+
+2015-01-27 18:22:22,518 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRaceClient: postStop
+
+2015-01-27 18:22:22,519 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+ClientWS: postStop
+
+2015-01-27 18:22:22,930 - [DEBUG] - from application in play-akka.actor.default-dispatcher-24 
+Application: Connecting user
+
+2015-01-27 18:22:24,841 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRaceClient: postStop
+
+2015-01-27 18:22:24,841 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+ClientWS: postStop
+
+2015-01-27 18:22:25,284 - [DEBUG] - from application in play-akka.actor.default-dispatcher-22 
+Application: Connecting user
+
+2015-01-27 18:22:26,080 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRaceClient: postStop
+
+2015-01-27 18:22:26,080 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+ClientWS: postStop
+
+2015-01-27 18:22:26,474 - [DEBUG] - from application in play-akka.actor.default-dispatcher-24 
+Application: Connecting user
+
+2015-01-27 18:22:27,019 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRaceClient: postStop
+
+2015-01-27 18:22:27,020 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+ClientWS: postStop
+
+2015-01-27 18:22:27,417 - [DEBUG] - from application in play-akka.actor.default-dispatcher-22 
+Application: Connecting user
+
+2015-01-27 18:41:44,279 - [DEBUG] - from application in application-akka.actor.default-dispatcher-6 
+DotRaceClient: postStop
+
+2015-01-27 18:41:44,280 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+ClientWS: postStop
+
+2015-01-27 18:41:44,833 - [INFO] - from play in play-internal-execution-context-18 
+Shutdown application default Akka system.
+
+2015-01-27 18:41:44,849 - [INFO] - from play in play-internal-execution-context-18 
+Application started (Dev)
+
+2015-01-27 18:41:45,215 - [DEBUG] - from application in play-akka.actor.default-dispatcher-26 
+Application: Connecting user
+
+2015-01-27 18:41:45,221 - [INFO] - from play in play-internal-execution-context-18 
+Starting application default Akka system.
+
+2015-01-27 18:50:20,017 - [DEBUG] - from application in application-akka.actor.default-dispatcher-6 
+DotRaceClient: postStop
+
+2015-01-27 18:50:20,018 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+ClientWS: postStop
+
+2015-01-27 18:50:20,583 - [INFO] - from play in play-internal-execution-context-22 
+Shutdown application default Akka system.
+
+2015-01-27 18:50:20,605 - [INFO] - from play in play-internal-execution-context-22 
+Application started (Dev)
+
+2015-01-27 18:50:21,034 - [DEBUG] - from application in play-akka.actor.default-dispatcher-28 
+Application: Connecting user
+
+2015-01-27 18:50:21,040 - [INFO] - from play in play-internal-execution-context-22 
+Starting application default Akka system.
+
+2015-01-27 18:51:38,764 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: postStop
+
+2015-01-27 18:51:38,765 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+ClientWS: postStop
+
+2015-01-27 18:51:39,341 - [INFO] - from play in play-internal-execution-context-25 
+Shutdown application default Akka system.
+
+2015-01-27 18:51:39,361 - [INFO] - from play in play-internal-execution-context-25 
+Application started (Dev)
+
+2015-01-27 18:51:39,728 - [DEBUG] - from application in play-akka.actor.default-dispatcher-32 
+Application: Connecting user
+
+2015-01-27 18:51:39,734 - [INFO] - from play in play-internal-execution-context-25 
+Starting application default Akka system.
+
+2015-01-27 18:51:42,084 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRaceClient: run()
+
+2015-01-27 18:51:42,084 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EvaluatorManager: load()
+
+2015-01-27 18:51:42,085 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+FileManager: findFiles()
+
+2015-01-27 18:51:42,085 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+FileManager: path = /home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace
+
+2015-01-27 18:51:42,086 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+FileManager: Glob is: 5-*
+
+2015-01-27 18:51:42,086 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+FileManager: file = /home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/5-test.scala
+
+2015-01-27 18:51:42,087 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+FileManager: Saw file 5-test.scala
+
+2015-01-27 18:51:42,087 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EvaluatorManager: processing /home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/5-test.scala
+
+2015-01-27 18:51:42,288 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EvaluatorManager: Test Eval = 2
+
+2015-01-27 18:51:42,711 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EvaluatorManager: Check
+
+2015-01-27 18:51:42,713 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EvaluatorManager: Answer is: 3
+
+2015-01-27 18:51:42,714 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EvaluatorManager: done with /home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/5-test.scala
+
+2015-01-27 18:51:42,714 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EvaluatorManager: returning
+
+2015-01-27 18:51:42,714 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: done loading evals
+
+2015-01-27 18:51:42,716 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRaceClient: Just started.
+
+2015-01-27 18:51:42,716 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:51:42,716 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is models.dotrace.Matrix@11ed3360
+
+2015-01-27 18:51:44,564 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRaceClient: Performing step
+
+2015-01-27 18:51:44,564 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: In tick()
+
+2015-01-27 18:51:44,565 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: IntLength 10 and 10
+
+2015-01-27 18:51:44,566 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Player is: 7, 8
+
+2015-01-27 18:51:44,566 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Dot is: 6, 8
+
+2015-01-27 18:51:44,567 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EVALSIZE: 1
+
+2015-01-27 18:51:44,567 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Answer is: 4
+
+2015-01-27 18:51:44,567 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Move is 4
+
+2015-01-27 18:51:44,568 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Win
+
+2015-01-27 18:51:44,568 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:51:44,568 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is models.dotrace.Matrix@11ed3360
+
+2015-01-27 18:51:44,568 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRaceClient: Verified Win - 1 - ticks
+
+2015-01-27 18:51:47,899 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: run()
+
+2015-01-27 18:51:47,899 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EvaluatorManager: load()
+
+2015-01-27 18:51:47,899 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+FileManager: findFiles()
+
+2015-01-27 18:51:47,899 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+FileManager: path = /home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace
+
+2015-01-27 18:51:47,899 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+FileManager: Glob is: 5-*
+
+2015-01-27 18:51:47,899 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+FileManager: file = /home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/5-test.scala
+
+2015-01-27 18:51:47,899 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+FileManager: Saw file 5-test.scala
+
+2015-01-27 18:51:47,900 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EvaluatorManager: processing /home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/5-test.scala
+
+2015-01-27 18:51:48,080 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EvaluatorManager: Test Eval = 2
+
+2015-01-27 18:51:48,472 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EvaluatorManager: Check
+
+2015-01-27 18:51:48,474 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EvaluatorManager: Answer is: 3
+
+2015-01-27 18:51:48,474 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EvaluatorManager: done with /home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/5-test.scala
+
+2015-01-27 18:51:48,474 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EvaluatorManager: returning
+
+2015-01-27 18:51:48,474 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: done loading evals
+
+2015-01-27 18:51:48,475 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Just started.
+
+2015-01-27 18:51:48,475 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:51:48,475 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is models.dotrace.Matrix@6c4c3840
+
+2015-01-27 18:51:50,609 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRaceClient: Performing step
+
+2015-01-27 18:51:50,609 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: In tick()
+
+2015-01-27 18:51:50,610 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: IntLength 10 and 10
+
+2015-01-27 18:51:50,610 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Player is: 0, 2
+
+2015-01-27 18:51:50,610 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Dot is: 7, 0
+
+2015-01-27 18:51:50,610 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EVALSIZE: 2
+
+2015-01-27 18:51:50,610 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Answer is: 3
+
+2015-01-27 18:51:50,611 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Move is 3
+
+2015-01-27 18:51:50,611 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:51:50,611 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is models.dotrace.Matrix@6c4c3840
+
+2015-01-27 18:51:51,020 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Performing step
+
+2015-01-27 18:51:51,021 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: In tick()
+
+2015-01-27 18:51:51,021 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: IntLength 10 and 10
+
+2015-01-27 18:51:51,021 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Player is: 1, 2
+
+2015-01-27 18:51:51,021 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Dot is: 7, 0
+
+2015-01-27 18:51:51,021 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EVALSIZE: 2
+
+2015-01-27 18:51:51,021 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Answer is: 3
+
+2015-01-27 18:51:51,021 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Move is 3
+
+2015-01-27 18:51:51,021 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:51:51,021 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is models.dotrace.Matrix@6c4c3840
+
+2015-01-27 18:51:51,155 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Performing step
+
+2015-01-27 18:51:51,155 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: In tick()
+
+2015-01-27 18:51:51,156 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: IntLength 10 and 10
+
+2015-01-27 18:51:51,156 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Player is: 2, 2
+
+2015-01-27 18:51:51,156 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Dot is: 7, 0
+
+2015-01-27 18:51:51,156 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EVALSIZE: 2
+
+2015-01-27 18:51:51,156 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Answer is: 3
+
+2015-01-27 18:51:51,156 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Move is 3
+
+2015-01-27 18:51:51,156 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:51:51,156 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is models.dotrace.Matrix@6c4c3840
+
+2015-01-27 18:51:51,298 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Performing step
+
+2015-01-27 18:51:51,298 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: In tick()
+
+2015-01-27 18:51:51,299 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: IntLength 10 and 10
+
+2015-01-27 18:51:51,299 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Player is: 3, 2
+
+2015-01-27 18:51:51,299 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Dot is: 7, 0
+
+2015-01-27 18:51:51,299 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EVALSIZE: 2
+
+2015-01-27 18:51:51,299 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Answer is: 3
+
+2015-01-27 18:51:51,299 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Move is 3
+
+2015-01-27 18:51:51,299 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:51:51,299 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is models.dotrace.Matrix@6c4c3840
+
+2015-01-27 18:51:51,445 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRaceClient: Performing step
+
+2015-01-27 18:51:51,446 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: In tick()
+
+2015-01-27 18:51:51,446 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: IntLength 10 and 10
+
+2015-01-27 18:51:51,446 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Player is: 4, 2
+
+2015-01-27 18:51:51,446 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Dot is: 7, 0
+
+2015-01-27 18:51:51,446 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EVALSIZE: 2
+
+2015-01-27 18:51:51,446 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Answer is: 3
+
+2015-01-27 18:51:51,446 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Move is 3
+
+2015-01-27 18:51:51,446 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:51:51,446 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is models.dotrace.Matrix@6c4c3840
+
+2015-01-27 18:51:51,604 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Performing step
+
+2015-01-27 18:51:51,604 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: In tick()
+
+2015-01-27 18:51:51,604 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: IntLength 10 and 10
+
+2015-01-27 18:51:51,604 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Player is: 5, 2
+
+2015-01-27 18:51:51,604 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Dot is: 7, 0
+
+2015-01-27 18:51:51,604 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EVALSIZE: 2
+
+2015-01-27 18:51:51,604 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Answer is: 3
+
+2015-01-27 18:51:51,604 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Move is 3
+
+2015-01-27 18:51:51,604 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:51:51,604 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is models.dotrace.Matrix@6c4c3840
+
+2015-01-27 18:51:51,764 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Performing step
+
+2015-01-27 18:51:51,764 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: In tick()
+
+2015-01-27 18:51:51,765 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: IntLength 10 and 10
+
+2015-01-27 18:51:51,765 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Player is: 6, 2
+
+2015-01-27 18:51:51,765 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Dot is: 7, 0
+
+2015-01-27 18:51:51,765 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EVALSIZE: 2
+
+2015-01-27 18:51:51,765 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Answer is: 3
+
+2015-01-27 18:51:51,765 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Move is 3
+
+2015-01-27 18:51:51,765 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:51:51,765 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is models.dotrace.Matrix@6c4c3840
+
+2015-01-27 18:51:51,956 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Performing step
+
+2015-01-27 18:51:51,956 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: In tick()
+
+2015-01-27 18:51:51,956 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: IntLength 10 and 10
+
+2015-01-27 18:51:51,956 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Player is: 7, 2
+
+2015-01-27 18:51:51,956 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Dot is: 7, 0
+
+2015-01-27 18:51:51,956 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EVALSIZE: 2
+
+2015-01-27 18:51:51,957 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Answer is: 2
+
+2015-01-27 18:51:51,957 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Move is 2
+
+2015-01-27 18:51:51,957 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:51:51,957 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is models.dotrace.Matrix@6c4c3840
+
+2015-01-27 18:51:52,310 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Performing step
+
+2015-01-27 18:51:52,310 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: In tick()
+
+2015-01-27 18:51:52,310 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: IntLength 10 and 10
+
+2015-01-27 18:51:52,311 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Player is: 7, 1
+
+2015-01-27 18:51:52,311 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Dot is: 7, 0
+
+2015-01-27 18:51:52,311 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EVALSIZE: 2
+
+2015-01-27 18:51:52,311 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Answer is: 2
+
+2015-01-27 18:51:52,311 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Move is 2
+
+2015-01-27 18:51:52,311 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Win
+
+2015-01-27 18:51:52,311 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:51:52,311 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is models.dotrace.Matrix@6c4c3840
+
+2015-01-27 18:51:52,311 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Verified Win - 10 - ticks
+
+2015-01-27 18:51:53,725 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRaceClient: run()
+
+2015-01-27 18:51:53,726 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EvaluatorManager: load()
+
+2015-01-27 18:51:53,727 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+FileManager: findFiles()
+
+2015-01-27 18:51:53,728 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+FileManager: path = /home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace
+
+2015-01-27 18:51:53,728 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+FileManager: Glob is: 5-*
+
+2015-01-27 18:51:53,728 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+FileManager: file = /home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/5-test.scala
+
+2015-01-27 18:51:53,728 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+FileManager: Saw file 5-test.scala
+
+2015-01-27 18:51:53,729 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EvaluatorManager: processing /home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/5-test.scala
+
+2015-01-27 18:51:53,878 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EvaluatorManager: Test Eval = 2
+
+2015-01-27 18:51:54,161 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EvaluatorManager: Check
+
+2015-01-27 18:51:54,162 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EvaluatorManager: Answer is: 3
+
+2015-01-27 18:51:54,162 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EvaluatorManager: done with /home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/5-test.scala
+
+2015-01-27 18:51:54,163 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EvaluatorManager: returning
+
+2015-01-27 18:51:54,163 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: done loading evals
+
+2015-01-27 18:51:54,163 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRaceClient: Just started.
+
+2015-01-27 18:51:54,163 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:51:54,163 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is models.dotrace.Matrix@459f782a
+
+2015-01-27 18:51:54,728 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Performing step
+
+2015-01-27 18:51:54,728 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: In tick()
+
+2015-01-27 18:51:54,728 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: IntLength 10 and 10
+
+2015-01-27 18:51:54,728 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Player is: 7, 4
+
+2015-01-27 18:51:54,728 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Dot is: 7, 8
+
+2015-01-27 18:51:54,729 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EVALSIZE: 3
+
+2015-01-27 18:51:54,729 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Answer is: 1
+
+2015-01-27 18:51:54,729 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Move is 1
+
+2015-01-27 18:51:54,729 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:51:54,729 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is models.dotrace.Matrix@459f782a
+
+2015-01-27 18:51:54,871 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Performing step
+
+2015-01-27 18:51:54,872 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: In tick()
+
+2015-01-27 18:51:54,872 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: IntLength 10 and 10
+
+2015-01-27 18:51:54,872 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Player is: 7, 5
+
+2015-01-27 18:51:54,872 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Dot is: 7, 8
+
+2015-01-27 18:51:54,872 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EVALSIZE: 3
+
+2015-01-27 18:51:54,872 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Answer is: 1
+
+2015-01-27 18:51:54,872 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Move is 1
+
+2015-01-27 18:51:54,872 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:51:54,872 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is models.dotrace.Matrix@459f782a
+
+2015-01-27 18:51:55,333 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRaceClient: Performing step
+
+2015-01-27 18:51:55,333 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: In tick()
+
+2015-01-27 18:51:55,333 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: IntLength 10 and 10
+
+2015-01-27 18:51:55,333 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Player is: 7, 6
+
+2015-01-27 18:51:55,333 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Dot is: 7, 8
+
+2015-01-27 18:51:55,333 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EVALSIZE: 3
+
+2015-01-27 18:51:55,333 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Answer is: 1
+
+2015-01-27 18:51:55,333 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Move is 1
+
+2015-01-27 18:51:55,333 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:51:55,333 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is models.dotrace.Matrix@459f782a
+
+2015-01-27 18:51:55,767 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Performing step
+
+2015-01-27 18:51:55,767 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: In tick()
+
+2015-01-27 18:51:55,768 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: IntLength 10 and 10
+
+2015-01-27 18:51:55,768 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Player is: 7, 7
+
+2015-01-27 18:51:55,768 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Dot is: 7, 8
+
+2015-01-27 18:51:55,768 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EVALSIZE: 3
+
+2015-01-27 18:51:55,768 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Answer is: 1
+
+2015-01-27 18:51:55,768 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Move is 1
+
+2015-01-27 18:51:55,768 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Win
+
+2015-01-27 18:51:55,768 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:51:55,768 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is models.dotrace.Matrix@459f782a
+
+2015-01-27 18:51:55,769 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Verified Win - 14 - ticks
+
+2015-01-27 18:51:58,416 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: postStop
+
+2015-01-27 18:51:58,417 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+ClientWS: postStop
+
+2015-01-27 18:51:58,793 - [DEBUG] - from application in play-akka.actor.default-dispatcher-36 
+Application: Connecting user
+
+2015-01-27 18:52:01,593 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRaceClient: run()
+
+2015-01-27 18:52:01,593 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+EvaluatorManager: load()
+
+2015-01-27 18:52:01,593 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+FileManager: findFiles()
+
+2015-01-27 18:52:01,594 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+FileManager: path = /home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace
+
+2015-01-27 18:52:01,594 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+FileManager: Glob is: 5-*
+
+2015-01-27 18:52:01,594 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+FileManager: file = /home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/5-test.scala
+
+2015-01-27 18:52:01,594 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+FileManager: Saw file 5-test.scala
+
+2015-01-27 18:52:01,594 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+EvaluatorManager: processing /home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/5-test.scala
+
+2015-01-27 18:52:01,762 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+EvaluatorManager: Test Eval = 2
+
+2015-01-27 18:52:02,054 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+EvaluatorManager: Check
+
+2015-01-27 18:52:02,056 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+EvaluatorManager: Answer is: 3
+
+2015-01-27 18:52:02,056 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+EvaluatorManager: done with /home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/5-test.scala
+
+2015-01-27 18:52:02,056 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+EvaluatorManager: returning
+
+2015-01-27 18:52:02,056 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: done loading evals
+
+2015-01-27 18:52:02,057 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRaceClient: Just started.
+
+2015-01-27 18:52:02,057 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:52:02,057 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: UpdateCmd is models.dotrace.Matrix@1b95bd91
+
+2015-01-27 18:52:02,940 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Performing step
+
+2015-01-27 18:52:02,940 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: In tick()
+
+2015-01-27 18:52:02,940 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: IntLength 10 and 10
+
+2015-01-27 18:52:02,940 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Player is: 9, 4
+
+2015-01-27 18:52:02,940 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Dot is: 8, 8
+
+2015-01-27 18:52:02,940 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EVALSIZE: 1
+
+2015-01-27 18:52:02,940 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Answer is: 4
+
+2015-01-27 18:52:02,940 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Move is 4
+
+2015-01-27 18:52:02,940 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:52:02,940 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is models.dotrace.Matrix@1b95bd91
+
+2015-01-27 18:52:03,110 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Performing step
+
+2015-01-27 18:52:03,110 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: In tick()
+
+2015-01-27 18:52:03,110 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: IntLength 10 and 10
+
+2015-01-27 18:52:03,110 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Player is: 8, 4
+
+2015-01-27 18:52:03,110 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Dot is: 8, 8
+
+2015-01-27 18:52:03,110 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EVALSIZE: 1
+
+2015-01-27 18:52:03,110 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Answer is: 1
+
+2015-01-27 18:52:03,110 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Move is 1
+
+2015-01-27 18:52:03,110 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:52:03,110 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is models.dotrace.Matrix@1b95bd91
+
+2015-01-27 18:52:03,518 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Performing step
+
+2015-01-27 18:52:03,518 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: In tick()
+
+2015-01-27 18:52:03,518 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: IntLength 10 and 10
+
+2015-01-27 18:52:03,518 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Player is: 8, 5
+
+2015-01-27 18:52:03,519 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Dot is: 8, 8
+
+2015-01-27 18:52:03,519 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EVALSIZE: 1
+
+2015-01-27 18:52:03,519 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Answer is: 1
+
+2015-01-27 18:52:03,519 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Move is 1
+
+2015-01-27 18:52:03,519 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:52:03,519 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is models.dotrace.Matrix@1b95bd91
+
+2015-01-27 18:52:03,679 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRaceClient: Performing step
+
+2015-01-27 18:52:03,679 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: In tick()
+
+2015-01-27 18:52:03,679 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: IntLength 10 and 10
+
+2015-01-27 18:52:03,679 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+Player is: 8, 6
+
+2015-01-27 18:52:03,679 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+Dot is: 8, 8
+
+2015-01-27 18:52:03,679 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+EVALSIZE: 1
+
+2015-01-27 18:52:03,679 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: Answer is: 1
+
+2015-01-27 18:52:03,680 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: Move is 1
+
+2015-01-27 18:52:03,680 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:52:03,680 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: UpdateCmd is models.dotrace.Matrix@1b95bd91
+
+2015-01-27 18:52:03,814 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRaceClient: Performing step
+
+2015-01-27 18:52:03,815 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: In tick()
+
+2015-01-27 18:52:03,815 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: IntLength 10 and 10
+
+2015-01-27 18:52:03,815 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+Player is: 8, 7
+
+2015-01-27 18:52:03,815 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+Dot is: 8, 8
+
+2015-01-27 18:52:03,815 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+EVALSIZE: 1
+
+2015-01-27 18:52:03,815 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: Answer is: 1
+
+2015-01-27 18:52:03,815 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: Move is 1
+
+2015-01-27 18:52:03,815 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: Win
+
+2015-01-27 18:52:03,815 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:52:03,815 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: UpdateCmd is models.dotrace.Matrix@1b95bd91
+
+2015-01-27 18:52:03,815 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRaceClient: Verified Win - 5 - ticks
+
+2015-01-27 18:52:09,078 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: postStop
+
+2015-01-27 18:52:09,078 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+ClientWS: postStop
+
+2015-01-27 18:52:30,521 - [DEBUG] - from application in play-akka.actor.default-dispatcher-35 
+Submitter: Code saved to: /home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/11-20150127_185230_518.scala
+
+2015-01-27 18:52:30,877 - [DEBUG] - from application in play-akka.actor.default-dispatcher-35 
+Application: Connecting user
+
+2015-01-27 18:52:34,290 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRaceClient: run()
+
+2015-01-27 18:52:34,291 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EvaluatorManager: load()
+
+2015-01-27 18:52:34,291 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+FileManager: findFiles()
+
+2015-01-27 18:52:34,291 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+FileManager: path = /home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace
+
+2015-01-27 18:52:34,291 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+FileManager: Glob is: 11-*
+
+2015-01-27 18:52:34,291 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+FileManager: file = /home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/11-20150127_185230_518.scala
+
+2015-01-27 18:52:34,292 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+FileManager: Saw file 11-20150127_185230_518.scala
+
+2015-01-27 18:52:34,292 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EvaluatorManager: processing /home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/11-20150127_185230_518.scala
+
+2015-01-27 18:52:34,442 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EvaluatorManager: Test Eval = 2
+
+2015-01-27 18:52:34,744 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EvaluatorManager: Check
+
+2015-01-27 18:52:34,746 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EvaluatorManager: Answer is: 3
+
+2015-01-27 18:52:34,746 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EvaluatorManager: done with /home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/11-20150127_185230_518.scala
+
+2015-01-27 18:52:34,746 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EvaluatorManager: returning
+
+2015-01-27 18:52:34,746 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: done loading evals
+
+2015-01-27 18:52:34,747 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRaceClient: Just started.
+
+2015-01-27 18:52:34,747 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:52:34,747 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is models.dotrace.Matrix@624c85a0
+
+2015-01-27 18:52:36,101 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRaceClient: Performing step
+
+2015-01-27 18:52:36,101 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: In tick()
+
+2015-01-27 18:52:36,101 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: IntLength 10 and 10
+
+2015-01-27 18:52:36,102 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Player is: 0, 5
+
+2015-01-27 18:52:36,102 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Dot is: 1, 3
+
+2015-01-27 18:52:36,102 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EVALSIZE: 1
+
+2015-01-27 18:52:36,102 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Answer is: 3
+
+2015-01-27 18:52:36,102 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Move is 3
+
+2015-01-27 18:52:36,102 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:52:36,102 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is models.dotrace.Matrix@624c85a0
+
+2015-01-27 18:52:36,490 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Performing step
+
+2015-01-27 18:52:36,490 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: In tick()
+
+2015-01-27 18:52:36,490 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: IntLength 10 and 10
+
+2015-01-27 18:52:36,490 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Player is: 1, 5
+
+2015-01-27 18:52:36,490 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Dot is: 1, 3
+
+2015-01-27 18:52:36,490 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EVALSIZE: 1
+
+2015-01-27 18:52:36,490 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Answer is: 2
+
+2015-01-27 18:52:36,490 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Move is 2
+
+2015-01-27 18:52:36,490 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:52:36,490 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is models.dotrace.Matrix@624c85a0
+
+2015-01-27 18:52:36,824 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Performing step
+
+2015-01-27 18:52:36,824 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: In tick()
+
+2015-01-27 18:52:36,824 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: IntLength 10 and 10
+
+2015-01-27 18:52:36,824 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Player is: 1, 4
+
+2015-01-27 18:52:36,824 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Dot is: 1, 3
+
+2015-01-27 18:52:36,824 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EVALSIZE: 1
+
+2015-01-27 18:52:36,824 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Answer is: 2
+
+2015-01-27 18:52:36,825 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Move is 2
+
+2015-01-27 18:52:36,825 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Win
+
+2015-01-27 18:52:36,825 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:52:36,825 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is models.dotrace.Matrix@624c85a0
+
+2015-01-27 18:52:36,825 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Verified Win - 3 - ticks
+
+2015-01-27 18:53:10,588 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: run()
+
+2015-01-27 18:53:10,588 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EvaluatorManager: load()
+
+2015-01-27 18:53:10,588 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+FileManager: findFiles()
+
+2015-01-27 18:53:10,588 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+FileManager: path = /home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace
+
+2015-01-27 18:53:10,588 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+FileManager: Glob is: 11-*
+
+2015-01-27 18:53:10,588 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+FileManager: file = /home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/11-20150127_185230_518.scala
+
+2015-01-27 18:53:10,588 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+FileManager: Saw file 11-20150127_185230_518.scala
+
+2015-01-27 18:53:10,588 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EvaluatorManager: processing /home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/11-20150127_185230_518.scala
+
+2015-01-27 18:53:10,698 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EvaluatorManager: Test Eval = 2
+
+2015-01-27 18:53:10,943 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EvaluatorManager: Check
+
+2015-01-27 18:53:10,944 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EvaluatorManager: Answer is: 3
+
+2015-01-27 18:53:10,944 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EvaluatorManager: done with /home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/11-20150127_185230_518.scala
+
+2015-01-27 18:53:10,944 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EvaluatorManager: returning
+
+2015-01-27 18:53:10,944 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: done loading evals
+
+2015-01-27 18:53:10,944 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Just started.
+
+2015-01-27 18:53:10,944 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:53:10,944 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is models.dotrace.Matrix@502d1000
+
+2015-01-27 18:53:11,655 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRaceClient: Performing step
+
+2015-01-27 18:53:11,655 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: In tick()
+
+2015-01-27 18:53:11,656 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: IntLength 10 and 10
+
+2015-01-27 18:53:11,656 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Player is: 2, 4
+
+2015-01-27 18:53:11,656 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Dot is: 5, 7
+
+2015-01-27 18:53:11,656 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EVALSIZE: 2
+
+2015-01-27 18:53:11,656 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Answer is: 3
+
+2015-01-27 18:53:11,656 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Move is 3
+
+2015-01-27 18:53:11,656 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:53:11,656 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is models.dotrace.Matrix@502d1000
+
+2015-01-27 18:53:11,884 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Performing step
+
+2015-01-27 18:53:11,884 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: In tick()
+
+2015-01-27 18:53:11,884 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: IntLength 10 and 10
+
+2015-01-27 18:53:11,884 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Player is: 3, 4
+
+2015-01-27 18:53:11,884 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Dot is: 5, 7
+
+2015-01-27 18:53:11,884 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EVALSIZE: 2
+
+2015-01-27 18:53:11,885 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Answer is: 3
+
+2015-01-27 18:53:11,885 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Move is 3
+
+2015-01-27 18:53:11,885 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:53:11,885 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is models.dotrace.Matrix@502d1000
+
+2015-01-27 18:53:12,196 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Performing step
+
+2015-01-27 18:53:12,197 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: In tick()
+
+2015-01-27 18:53:12,197 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: IntLength 10 and 10
+
+2015-01-27 18:53:12,197 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Player is: 4, 4
+
+2015-01-27 18:53:12,197 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Dot is: 5, 7
+
+2015-01-27 18:53:12,197 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EVALSIZE: 2
+
+2015-01-27 18:53:12,197 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Answer is: 3
+
+2015-01-27 18:53:12,197 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Move is 3
+
+2015-01-27 18:53:12,197 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:53:12,198 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is models.dotrace.Matrix@502d1000
+
+2015-01-27 18:53:12,353 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRaceClient: Performing step
+
+2015-01-27 18:53:12,353 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: In tick()
+
+2015-01-27 18:53:12,353 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: IntLength 10 and 10
+
+2015-01-27 18:53:12,353 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Player is: 5, 4
+
+2015-01-27 18:53:12,354 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Dot is: 5, 7
+
+2015-01-27 18:53:12,354 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EVALSIZE: 2
+
+2015-01-27 18:53:12,354 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Answer is: 1
+
+2015-01-27 18:53:12,354 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Move is 1
+
+2015-01-27 18:53:12,354 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:53:12,354 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is models.dotrace.Matrix@502d1000
+
+2015-01-27 18:53:12,580 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Performing step
+
+2015-01-27 18:53:12,581 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: In tick()
+
+2015-01-27 18:53:12,581 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: IntLength 10 and 10
+
+2015-01-27 18:53:12,581 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Player is: 5, 5
+
+2015-01-27 18:53:12,581 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Dot is: 5, 7
+
+2015-01-27 18:53:12,581 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EVALSIZE: 2
+
+2015-01-27 18:53:12,581 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Answer is: 1
+
+2015-01-27 18:53:12,581 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Move is 1
+
+2015-01-27 18:53:12,581 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:53:12,582 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is models.dotrace.Matrix@502d1000
+
+2015-01-27 18:53:12,832 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRaceClient: Performing step
+
+2015-01-27 18:53:12,832 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: In tick()
+
+2015-01-27 18:53:12,832 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: IntLength 10 and 10
+
+2015-01-27 18:53:12,832 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Player is: 5, 6
+
+2015-01-27 18:53:12,832 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Dot is: 5, 7
+
+2015-01-27 18:53:12,832 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EVALSIZE: 2
+
+2015-01-27 18:53:12,832 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Answer is: 1
+
+2015-01-27 18:53:12,832 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Move is 1
+
+2015-01-27 18:53:12,833 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Win
+
+2015-01-27 18:53:12,833 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:53:12,833 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is models.dotrace.Matrix@502d1000
+
+2015-01-27 18:53:12,833 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRaceClient: Verified Win - 9 - ticks
+
+2015-01-27 18:54:31,394 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRaceClient: postStop
+
+2015-01-27 18:54:31,394 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+ClientWS: postStop
+
+2015-01-27 18:54:31,963 - [INFO] - from play in play-internal-execution-context-29 
+Shutdown application default Akka system.
+
+2015-01-27 18:54:31,985 - [INFO] - from play in play-internal-execution-context-29 
+Application started (Dev)
+
+2015-01-27 18:54:32,347 - [DEBUG] - from application in play-akka.actor.default-dispatcher-37 
+Application: Connecting user
+
+2015-01-27 18:54:32,355 - [INFO] - from play in play-internal-execution-context-29 
+Starting application default Akka system.
+
+2015-01-27 18:54:37,189 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRaceClient: run()
+
+2015-01-27 18:54:37,190 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EvaluatorManager: load()
+
+2015-01-27 18:54:37,191 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+FileManager: findFiles()
+
+2015-01-27 18:54:37,191 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+FileManager: path = /home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace
+
+2015-01-27 18:54:37,192 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+FileManager: Glob is: 11-*
+
+2015-01-27 18:54:37,192 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+FileManager: file = /home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/11-20150127_185230_518.scala
+
+2015-01-27 18:54:37,193 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+FileManager: Saw file 11-20150127_185230_518.scala
+
+2015-01-27 18:54:37,193 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EvaluatorManager: processing /home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/11-20150127_185230_518.scala
+
+2015-01-27 18:54:37,323 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EvaluatorManager: Test Eval = 2
+
+2015-01-27 18:54:37,597 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EvaluatorManager: Check
+
+2015-01-27 18:54:37,599 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EvaluatorManager: Answer is: 3
+
+2015-01-27 18:54:37,600 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EvaluatorManager: done with /home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/11-20150127_185230_518.scala
+
+2015-01-27 18:54:37,600 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EvaluatorManager: returning
+
+2015-01-27 18:54:37,600 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: done loading evals
+
+2015-01-27 18:54:37,602 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRaceClient: Just started.
+
+2015-01-27 18:54:37,602 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:54:37,602 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is models.dotrace.Matrix@2222d293
+
+2015-01-27 18:54:38,604 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRaceClient: Performing step
+
+2015-01-27 18:54:38,604 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: In tick()
+
+2015-01-27 18:54:38,605 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: IntLength 10 and 10
+
+2015-01-27 18:54:38,606 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+Player is: 8, 5
+
+2015-01-27 18:54:38,606 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+Dot is: 3, 2
+
+2015-01-27 18:54:38,606 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+EVALSIZE: 1
+
+2015-01-27 18:54:38,606 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: Answer is: 4
+
+2015-01-27 18:54:38,607 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: Move is 4
+
+2015-01-27 18:54:38,607 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:54:38,607 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: UpdateCmd is models.dotrace.Matrix@2222d293
+
+2015-01-27 18:54:39,210 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRaceClient: Performing step
+
+2015-01-27 18:54:39,210 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: In tick()
+
+2015-01-27 18:54:39,210 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: IntLength 10 and 10
+
+2015-01-27 18:54:39,210 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+Player is: 7, 5
+
+2015-01-27 18:54:39,210 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+Dot is: 3, 2
+
+2015-01-27 18:54:39,210 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+EVALSIZE: 1
+
+2015-01-27 18:54:39,210 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: Answer is: 4
+
+2015-01-27 18:54:39,210 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: Move is 4
+
+2015-01-27 18:54:39,210 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:54:39,211 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: UpdateCmd is models.dotrace.Matrix@2222d293
+
+2015-01-27 18:54:39,626 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRaceClient: Performing step
+
+2015-01-27 18:54:39,626 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: In tick()
+
+2015-01-27 18:54:39,626 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: IntLength 10 and 10
+
+2015-01-27 18:54:39,626 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+Player is: 6, 5
+
+2015-01-27 18:54:39,626 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+Dot is: 3, 2
+
+2015-01-27 18:54:39,626 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+EVALSIZE: 1
+
+2015-01-27 18:54:39,626 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: Answer is: 4
+
+2015-01-27 18:54:39,626 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: Move is 4
+
+2015-01-27 18:54:39,627 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:54:39,627 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: UpdateCmd is models.dotrace.Matrix@2222d293
+
+2015-01-27 18:54:40,102 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRaceClient: Performing step
+
+2015-01-27 18:54:40,102 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: In tick()
+
+2015-01-27 18:54:40,102 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: IntLength 10 and 10
+
+2015-01-27 18:54:40,102 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Player is: 5, 5
+
+2015-01-27 18:54:40,102 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Dot is: 3, 2
+
+2015-01-27 18:54:40,103 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EVALSIZE: 1
+
+2015-01-27 18:54:40,103 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Answer is: 4
+
+2015-01-27 18:54:40,103 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Move is 4
+
+2015-01-27 18:54:40,103 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:54:40,103 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is models.dotrace.Matrix@2222d293
+
+2015-01-27 18:54:40,562 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRaceClient: Performing step
+
+2015-01-27 18:54:40,562 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: In tick()
+
+2015-01-27 18:54:40,563 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: IntLength 10 and 10
+
+2015-01-27 18:54:40,563 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Player is: 4, 5
+
+2015-01-27 18:54:40,563 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Dot is: 3, 2
+
+2015-01-27 18:54:40,563 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EVALSIZE: 1
+
+2015-01-27 18:54:40,563 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Answer is: 4
+
+2015-01-27 18:54:40,563 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Move is 4
+
+2015-01-27 18:54:40,563 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:54:40,563 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is models.dotrace.Matrix@2222d293
+
+2015-01-27 18:54:42,273 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRaceClient: Performing step
+
+2015-01-27 18:54:42,273 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: In tick()
+
+2015-01-27 18:54:42,273 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: IntLength 10 and 10
+
+2015-01-27 18:54:42,273 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Player is: 3, 5
+
+2015-01-27 18:54:42,273 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Dot is: 3, 2
+
+2015-01-27 18:54:42,273 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EVALSIZE: 1
+
+2015-01-27 18:54:42,273 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Answer is: 2
+
+2015-01-27 18:54:42,273 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Move is 2
+
+2015-01-27 18:54:42,273 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:54:42,273 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is models.dotrace.Matrix@2222d293
+
+2015-01-27 18:54:42,948 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRaceClient: Performing step
+
+2015-01-27 18:54:42,948 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: In tick()
+
+2015-01-27 18:54:42,948 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: IntLength 10 and 10
+
+2015-01-27 18:54:42,949 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+Player is: 3, 4
+
+2015-01-27 18:54:42,949 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+Dot is: 3, 2
+
+2015-01-27 18:54:42,949 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+EVALSIZE: 1
+
+2015-01-27 18:54:42,949 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: Answer is: 2
+
+2015-01-27 18:54:42,949 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: Move is 2
+
+2015-01-27 18:54:42,949 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:54:42,949 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: UpdateCmd is models.dotrace.Matrix@2222d293
+
+2015-01-27 18:54:44,086 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRaceClient: Performing step
+
+2015-01-27 18:54:44,086 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: In tick()
+
+2015-01-27 18:54:44,086 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: IntLength 10 and 10
+
+2015-01-27 18:54:44,086 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Player is: 3, 3
+
+2015-01-27 18:54:44,086 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Dot is: 3, 2
+
+2015-01-27 18:54:44,086 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EVALSIZE: 1
+
+2015-01-27 18:54:44,087 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Answer is: 2
+
+2015-01-27 18:54:44,087 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Move is 2
+
+2015-01-27 18:54:44,087 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Win
+
+2015-01-27 18:54:44,087 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:54:44,087 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is models.dotrace.Matrix@2222d293
+
+2015-01-27 18:54:44,088 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRaceClient: Verified Win - 8 - ticks
+
+2015-01-27 18:54:46,710 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRaceClient: Performing step
+
+2015-01-27 18:54:46,710 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: In tick()
+
+2015-01-27 18:54:46,711 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: IntLength 10 and 10
+
+2015-01-27 18:54:46,711 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Player is: 3, 2
+
+2015-01-27 18:54:46,711 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Dot is: 3, 2
+
+2015-01-27 18:54:46,711 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EVALSIZE: 1
+
+2015-01-27 18:54:46,711 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Answer is: 3
+
+2015-01-27 18:54:46,711 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Move is 3
+
+2015-01-27 18:54:46,712 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:54:46,712 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is models.dotrace.Matrix@2222d293
+
+2015-01-27 18:54:47,203 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRaceClient: Performing step
+
+2015-01-27 18:54:47,203 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: In tick()
+
+2015-01-27 18:54:47,203 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: IntLength 10 and 10
+
+2015-01-27 18:54:47,203 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Player is: 4, 2
+
+2015-01-27 18:54:47,203 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Dot is: 3, 2
+
+2015-01-27 18:54:47,203 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EVALSIZE: 1
+
+2015-01-27 18:54:47,203 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Answer is: 4
+
+2015-01-27 18:54:47,203 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Move is 4
+
+2015-01-27 18:54:47,203 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Win
+
+2015-01-27 18:54:47,203 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:54:47,203 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is models.dotrace.Matrix@2222d293
+
+2015-01-27 18:54:47,203 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRaceClient: Verified Win - 10 - ticks
+
+2015-01-27 18:54:48,036 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRaceClient: Performing step
+
+2015-01-27 18:54:48,036 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: In tick()
+
+2015-01-27 18:54:48,036 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: IntLength 10 and 10
+
+2015-01-27 18:54:48,036 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+Player is: 3, 2
+
+2015-01-27 18:54:48,036 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+Dot is: 3, 2
+
+2015-01-27 18:54:48,036 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+EVALSIZE: 1
+
+2015-01-27 18:54:48,036 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: Answer is: 3
+
+2015-01-27 18:54:48,036 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: Move is 3
+
+2015-01-27 18:54:48,036 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:54:48,036 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: UpdateCmd is models.dotrace.Matrix@2222d293
+
+2015-01-27 18:54:48,298 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRaceClient: Performing step
+
+2015-01-27 18:54:48,298 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: In tick()
+
+2015-01-27 18:54:48,298 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: IntLength 10 and 10
+
+2015-01-27 18:54:48,298 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Player is: 4, 2
+
+2015-01-27 18:54:48,298 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Dot is: 3, 2
+
+2015-01-27 18:54:48,298 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EVALSIZE: 1
+
+2015-01-27 18:54:48,298 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Answer is: 4
+
+2015-01-27 18:54:48,298 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Move is 4
+
+2015-01-27 18:54:48,298 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Win
+
+2015-01-27 18:54:48,298 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:54:48,298 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is models.dotrace.Matrix@2222d293
+
+2015-01-27 18:54:48,298 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRaceClient: Verified Win - 12 - ticks
+
+2015-01-27 18:54:48,702 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRaceClient: Performing step
+
+2015-01-27 18:54:48,703 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: In tick()
+
+2015-01-27 18:54:48,703 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: IntLength 10 and 10
+
+2015-01-27 18:54:48,703 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+Player is: 3, 2
+
+2015-01-27 18:54:48,703 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+Dot is: 3, 2
+
+2015-01-27 18:54:48,703 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+EVALSIZE: 1
+
+2015-01-27 18:54:48,703 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: Answer is: 3
+
+2015-01-27 18:54:48,703 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: Move is 3
+
+2015-01-27 18:54:48,703 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:54:48,703 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: UpdateCmd is models.dotrace.Matrix@2222d293
+
+2015-01-27 18:54:49,141 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRaceClient: Performing step
+
+2015-01-27 18:54:49,141 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: In tick()
+
+2015-01-27 18:54:49,141 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: IntLength 10 and 10
+
+2015-01-27 18:54:49,141 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+Player is: 4, 2
+
+2015-01-27 18:54:49,141 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+Dot is: 3, 2
+
+2015-01-27 18:54:49,142 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+EVALSIZE: 1
+
+2015-01-27 18:54:49,142 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: Answer is: 4
+
+2015-01-27 18:54:49,142 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: Move is 4
+
+2015-01-27 18:54:49,142 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: Win
+
+2015-01-27 18:54:49,142 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:54:49,142 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: UpdateCmd is models.dotrace.Matrix@2222d293
+
+2015-01-27 18:54:49,142 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRaceClient: Verified Win - 14 - ticks
+
+2015-01-27 18:54:49,588 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRaceClient: Performing step
+
+2015-01-27 18:54:49,588 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: In tick()
+
+2015-01-27 18:54:49,588 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: IntLength 10 and 10
+
+2015-01-27 18:54:49,588 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+Player is: 3, 2
+
+2015-01-27 18:54:49,588 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+Dot is: 3, 2
+
+2015-01-27 18:54:49,588 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+EVALSIZE: 1
+
+2015-01-27 18:54:49,588 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: Answer is: 3
+
+2015-01-27 18:54:49,589 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: Move is 3
+
+2015-01-27 18:54:49,589 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:54:49,589 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: UpdateCmd is models.dotrace.Matrix@2222d293
+
+2015-01-27 18:54:50,014 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRaceClient: Performing step
+
+2015-01-27 18:54:50,014 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: In tick()
+
+2015-01-27 18:54:50,015 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: IntLength 10 and 10
+
+2015-01-27 18:54:50,015 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Player is: 4, 2
+
+2015-01-27 18:54:50,015 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Dot is: 3, 2
+
+2015-01-27 18:54:50,015 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EVALSIZE: 1
+
+2015-01-27 18:54:50,015 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Answer is: 4
+
+2015-01-27 18:54:50,015 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Move is 4
+
+2015-01-27 18:54:50,015 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Win
+
+2015-01-27 18:54:50,015 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:54:50,015 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is models.dotrace.Matrix@2222d293
+
+2015-01-27 18:54:50,015 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRaceClient: Verified Win - 16 - ticks
+
+2015-01-27 18:54:50,366 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRaceClient: Performing step
+
+2015-01-27 18:54:50,366 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: In tick()
+
+2015-01-27 18:54:50,366 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: IntLength 10 and 10
+
+2015-01-27 18:54:50,367 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+Player is: 3, 2
+
+2015-01-27 18:54:50,367 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+Dot is: 3, 2
+
+2015-01-27 18:54:50,367 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+EVALSIZE: 1
+
+2015-01-27 18:54:50,367 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: Answer is: 3
+
+2015-01-27 18:54:50,367 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: Move is 3
+
+2015-01-27 18:54:50,367 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:54:50,367 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: UpdateCmd is models.dotrace.Matrix@2222d293
+
+2015-01-27 18:59:33,445 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Performing step
+
+2015-01-27 18:59:33,445 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: In tick()
+
+2015-01-27 18:59:33,445 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: IntLength 10 and 10
+
+2015-01-27 18:59:33,445 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Player is: 4, 2
+
+2015-01-27 18:59:33,446 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Dot is: 3, 2
+
+2015-01-27 18:59:33,446 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EVALSIZE: 1
+
+2015-01-27 18:59:33,446 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Answer is: 4
+
+2015-01-27 18:59:33,446 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Move is 4
+
+2015-01-27 18:59:33,446 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Win
+
+2015-01-27 18:59:33,446 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:59:33,446 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is models.dotrace.Matrix@2222d293
+
+2015-01-27 18:59:33,446 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Verified Win - 18 - ticks
+
+2015-01-27 18:59:34,027 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Performing step
+
+2015-01-27 18:59:34,027 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: In tick()
+
+2015-01-27 18:59:34,028 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: IntLength 10 and 10
+
+2015-01-27 18:59:34,028 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Player is: 3, 2
+
+2015-01-27 18:59:34,028 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Dot is: 3, 2
+
+2015-01-27 18:59:34,028 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EVALSIZE: 1
+
+2015-01-27 18:59:34,028 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Answer is: 3
+
+2015-01-27 18:59:34,028 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Move is 3
+
+2015-01-27 18:59:34,028 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:59:34,028 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is models.dotrace.Matrix@2222d293
+
+2015-01-27 18:59:34,500 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRaceClient: Performing step
+
+2015-01-27 18:59:34,501 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: In tick()
+
+2015-01-27 18:59:34,501 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: IntLength 10 and 10
+
+2015-01-27 18:59:34,501 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+Player is: 4, 2
+
+2015-01-27 18:59:34,501 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+Dot is: 3, 2
+
+2015-01-27 18:59:34,501 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+EVALSIZE: 1
+
+2015-01-27 18:59:34,501 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: Answer is: 4
+
+2015-01-27 18:59:34,501 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: Move is 4
+
+2015-01-27 18:59:34,501 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: Win
+
+2015-01-27 18:59:34,501 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:59:34,501 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: UpdateCmd is models.dotrace.Matrix@2222d293
+
+2015-01-27 18:59:34,501 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRaceClient: Verified Win - 20 - ticks
+
+2015-01-27 18:59:34,852 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Performing step
+
+2015-01-27 18:59:34,853 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: In tick()
+
+2015-01-27 18:59:34,853 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: IntLength 10 and 10
+
+2015-01-27 18:59:34,853 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Player is: 3, 2
+
+2015-01-27 18:59:34,853 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Dot is: 3, 2
+
+2015-01-27 18:59:34,853 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EVALSIZE: 1
+
+2015-01-27 18:59:34,853 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Answer is: 3
+
+2015-01-27 18:59:34,853 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Move is 3
+
+2015-01-27 18:59:34,853 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is ...
+
+2015-01-27 18:59:34,853 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is models.dotrace.Matrix@2222d293
+
+2015-01-27 18:59:37,024 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRaceClient: postStop
+
+2015-01-27 18:59:37,025 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+ClientWS: postStop
+
+2015-01-27 18:59:37,614 - [INFO] - from play in play-internal-execution-context-27 
+Shutdown application default Akka system.
+
+2015-01-27 18:59:37,634 - [INFO] - from play in play-internal-execution-context-27 
+Application started (Dev)
+
+2015-01-27 18:59:37,979 - [DEBUG] - from application in play-akka.actor.default-dispatcher-39 
+Application: Connecting user
+
+2015-01-27 18:59:37,985 - [INFO] - from play in play-internal-execution-context-27 
+Starting application default Akka system.
+
+2015-01-27 18:59:40,432 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: postStop
+
+2015-01-27 18:59:40,433 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+ClientWS: postStop
+
+2015-01-27 18:59:40,794 - [DEBUG] - from application in play-akka.actor.default-dispatcher-43 
+Application: Connecting user
+
+2015-01-27 19:00:22,459 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: postStop
+
+2015-01-27 19:00:22,459 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+ClientWS: postStop
+
+2015-01-27 19:00:23,058 - [INFO] - from play in play-internal-execution-context-33 
+Shutdown application default Akka system.
+
+2015-01-27 19:00:23,076 - [INFO] - from play in play-internal-execution-context-33 
+Application started (Dev)
+
+2015-01-27 19:00:23,421 - [DEBUG] - from application in play-akka.actor.default-dispatcher-44 
+Application: Connecting user
+
+2015-01-27 19:00:23,428 - [INFO] - from play in play-internal-execution-context-33 
+Starting application default Akka system.
+
+2015-01-27 19:00:30,095 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: postStop
+
+2015-01-27 19:00:30,096 - [DEBUG] - from application in application-akka.actor.default-dispatcher-6 
+ClientWS: postStop
+
+2015-01-27 19:00:30,435 - [DEBUG] - from application in play-akka.actor.default-dispatcher-45 
+Application: Connecting user
+
+2015-01-27 19:00:34,257 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRaceClient: run()
+
+2015-01-27 19:00:34,258 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+EvaluatorManager: load()
+
+2015-01-27 19:00:34,259 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+FileManager: findFiles()
+
+2015-01-27 19:00:34,260 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+FileManager: path = /home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace
+
+2015-01-27 19:00:34,260 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+FileManager: Glob is: 11-*
+
+2015-01-27 19:00:34,261 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+FileManager: file = /home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/11-20150127_185230_518.scala
+
+2015-01-27 19:00:34,261 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+FileManager: Saw file 11-20150127_185230_518.scala
+
+2015-01-27 19:00:34,262 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+EvaluatorManager: processing /home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/11-20150127_185230_518.scala
+
+2015-01-27 19:00:34,395 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+EvaluatorManager: Test Eval = 2
+
+2015-01-27 19:00:34,692 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+EvaluatorManager: Check
+
+2015-01-27 19:00:34,693 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+EvaluatorManager: Answer is: 3
+
+2015-01-27 19:00:34,694 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+EvaluatorManager: done with /home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/11-20150127_185230_518.scala
+
+2015-01-27 19:00:34,694 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+EvaluatorManager: returning
+
+2015-01-27 19:00:34,694 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: done loading evals
+
+2015-01-27 19:00:34,695 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRaceClient: Just started.
+
+2015-01-27 19:00:34,695 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: UpdateCmd is ...
+
+2015-01-27 19:00:34,696 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: UpdateCmd is models.dotrace.Matrix@75975119
+
+2015-01-27 19:00:36,177 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Performing step
+
+2015-01-27 19:00:36,177 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: In tick()
+
+2015-01-27 19:00:36,179 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: IntLength 10 and 10
+
+2015-01-27 19:00:36,179 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Player is: 0, 3
+
+2015-01-27 19:00:36,180 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Dot is: 4, 6
+
+2015-01-27 19:00:36,181 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EVALSIZE: 1
+
+2015-01-27 19:00:36,182 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Answer is: 3
+
+2015-01-27 19:00:36,182 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Move is 3
+
+2015-01-27 19:00:36,183 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is ...
+
+2015-01-27 19:00:36,183 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is models.dotrace.Matrix@75975119
+
+2015-01-27 19:00:36,542 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRaceClient: Performing step
+
+2015-01-27 19:00:36,543 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: In tick()
+
+2015-01-27 19:00:36,543 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: IntLength 10 and 10
+
+2015-01-27 19:00:36,543 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+Player is: 1, 3
+
+2015-01-27 19:00:36,543 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+Dot is: 4, 6
+
+2015-01-27 19:00:36,543 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+EVALSIZE: 1
+
+2015-01-27 19:00:36,543 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: Answer is: 3
+
+2015-01-27 19:00:36,543 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: Move is 3
+
+2015-01-27 19:00:36,543 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: UpdateCmd is ...
+
+2015-01-27 19:00:36,543 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: UpdateCmd is models.dotrace.Matrix@75975119
+
+2015-01-27 19:00:36,719 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Performing step
+
+2015-01-27 19:00:36,720 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: In tick()
+
+2015-01-27 19:00:36,720 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: IntLength 10 and 10
+
+2015-01-27 19:00:36,720 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Player is: 2, 3
+
+2015-01-27 19:00:36,720 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Dot is: 4, 6
+
+2015-01-27 19:00:36,720 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EVALSIZE: 1
+
+2015-01-27 19:00:36,720 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Answer is: 3
+
+2015-01-27 19:00:36,720 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Move is 3
+
+2015-01-27 19:00:36,720 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is ...
+
+2015-01-27 19:00:36,720 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is models.dotrace.Matrix@75975119
+
+2015-01-27 19:00:36,937 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRaceClient: Performing step
+
+2015-01-27 19:00:36,937 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: In tick()
+
+2015-01-27 19:00:36,937 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: IntLength 10 and 10
+
+2015-01-27 19:00:36,937 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+Player is: 3, 3
+
+2015-01-27 19:00:36,937 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+Dot is: 4, 6
+
+2015-01-27 19:00:36,937 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+EVALSIZE: 1
+
+2015-01-27 19:00:36,937 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: Answer is: 3
+
+2015-01-27 19:00:36,937 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: Move is 3
+
+2015-01-27 19:00:36,937 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: UpdateCmd is ...
+
+2015-01-27 19:00:36,937 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: UpdateCmd is models.dotrace.Matrix@75975119
+
+2015-01-27 19:00:37,409 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Performing step
+
+2015-01-27 19:00:37,410 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: In tick()
+
+2015-01-27 19:00:37,410 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: IntLength 10 and 10
+
+2015-01-27 19:00:37,410 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Player is: 4, 3
+
+2015-01-27 19:00:37,410 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Dot is: 4, 6
+
+2015-01-27 19:00:37,410 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EVALSIZE: 1
+
+2015-01-27 19:00:37,410 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Answer is: 1
+
+2015-01-27 19:00:37,410 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Move is 1
+
+2015-01-27 19:00:37,410 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is ...
+
+2015-01-27 19:00:37,410 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is models.dotrace.Matrix@75975119
+
+2015-01-27 19:00:37,737 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Performing step
+
+2015-01-27 19:00:37,737 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: In tick()
+
+2015-01-27 19:00:37,738 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: IntLength 10 and 10
+
+2015-01-27 19:00:37,738 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Player is: 4, 4
+
+2015-01-27 19:00:37,738 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Dot is: 4, 6
+
+2015-01-27 19:00:37,738 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EVALSIZE: 1
+
+2015-01-27 19:00:37,738 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Answer is: 1
+
+2015-01-27 19:00:37,738 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Move is 1
+
+2015-01-27 19:00:37,738 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is ...
+
+2015-01-27 19:00:37,738 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is models.dotrace.Matrix@75975119
+
+2015-01-27 19:00:38,114 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Performing step
+
+2015-01-27 19:00:38,114 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: In tick()
+
+2015-01-27 19:00:38,114 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: IntLength 10 and 10
+
+2015-01-27 19:00:38,114 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Player is: 4, 5
+
+2015-01-27 19:00:38,114 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Dot is: 4, 6
+
+2015-01-27 19:00:38,114 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EVALSIZE: 1
+
+2015-01-27 19:00:38,114 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Answer is: 1
+
+2015-01-27 19:00:38,114 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Move is 1
+
+2015-01-27 19:00:38,115 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Win
+
+2015-01-27 19:00:38,115 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is ...
+
+2015-01-27 19:00:38,115 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is models.dotrace.Matrix@75975119
+
+2015-01-27 19:00:38,115 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Verified Win - 7 - ticks
+
+2015-01-27 19:00:50,470 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: postStop
+
+2015-01-27 19:00:50,470 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+ClientWS: postStop
+
+2015-01-27 19:00:50,849 - [DEBUG] - from application in play-akka.actor.default-dispatcher-49 
+Application: Connecting user
+
+2015-01-27 19:02:54,898 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRaceClient: postStop
+
+2015-01-27 19:02:54,898 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+ClientWS: postStop
+
+2015-01-27 19:02:55,462 - [INFO] - from play in play-internal-execution-context-27 
+Shutdown application default Akka system.
+
+2015-01-27 19:02:55,477 - [INFO] - from play in play-internal-execution-context-27 
+Application started (Dev)
+
+2015-01-27 19:02:55,810 - [DEBUG] - from application in play-akka.actor.default-dispatcher-50 
+Application: Connecting user
+
+2015-01-27 19:02:55,816 - [INFO] - from play in play-internal-execution-context-27 
+Starting application default Akka system.
+
+2015-01-27 19:20:54,285 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRaceClient: postStop
+
+2015-01-27 19:20:54,285 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+ClientWS: postStop
+
+2015-01-27 19:20:54,838 - [INFO] - from play in play-internal-execution-context-38 
+Shutdown application default Akka system.
+
+2015-01-27 19:20:54,870 - [INFO] - from play in play-internal-execution-context-38 
+Application started (Dev)
+
+2015-01-27 19:20:55,252 - [INFO] - from play in play-internal-execution-context-38 
+Starting application default Akka system.
+
+2015-01-27 19:20:57,483 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: postStop
+
+2015-01-27 19:20:57,485 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+ClientWS: postStop
+
+2015-01-27 19:21:43,822 - [INFO] - from play in play-internal-execution-context-39 
+Shutdown application default Akka system.
+
+2015-01-27 19:21:43,844 - [INFO] - from play in play-internal-execution-context-39 
+Application started (Dev)
+
+2015-01-27 19:22:01,430 - [INFO] - from play in play-internal-execution-context-39 
+Application started (Dev)
+
+2015-01-27 19:23:09,633 - [INFO] - from play in play-internal-execution-context-39 
+Application started (Dev)
+
+2015-01-27 19:23:22,193 - [INFO] - from play in play-internal-execution-context-39 
+Starting application default Akka system.
+
+2015-01-27 20:01:11,163 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: postStop
+
+2015-01-27 20:01:11,164 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+ClientWS: postStop
+
+2015-01-27 20:01:11,712 - [INFO] - from play in play-internal-execution-context-45 
+Shutdown application default Akka system.
+
+2015-01-27 20:01:11,739 - [INFO] - from play in play-internal-execution-context-45 
+Application started (Dev)
+
+2015-01-27 20:01:12,089 - [INFO] - from play in play-internal-execution-context-45 
+Starting application default Akka system.
+
+2015-01-27 20:01:21,056 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRaceClient: run()
+
+2015-01-27 20:01:21,057 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+EvaluatorManager: load()
+
+2015-01-27 20:01:21,060 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+FileManager: Added file (/home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/11-20150127_185230_518.scala)
+
+2015-01-27 20:01:21,062 - [INFO] - from application in application-akka.actor.default-dispatcher-4 
+EvaluatorManager: Loading AI (/home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/11-20150127_185230_518.scala)
+
+2015-01-27 20:01:21,444 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: done loading evals
+
+2015-01-27 20:01:21,446 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRaceClient: Just started.
+
+2015-01-27 20:01:21,446 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: UpdateCmd is ...
+
+2015-01-27 20:01:21,446 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: UpdateCmd is models.dotrace.Matrix@974baf6
+
+2015-01-27 20:01:22,303 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Performing step
+
+2015-01-27 20:01:22,303 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: In tick()
+
+2015-01-27 20:01:22,304 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: IntLength 10 and 10
+
+2015-01-27 20:01:22,304 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Player is: 3, 3
+
+2015-01-27 20:01:22,305 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Dot is: 2, 1
+
+2015-01-27 20:01:22,308 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EVALSIZE: 1
+
+2015-01-27 20:01:22,308 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Answer is: 4
+
+2015-01-27 20:01:22,309 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Move is 4
+
+2015-01-27 20:01:22,309 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is ...
+
+2015-01-27 20:01:22,310 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is models.dotrace.Matrix@974baf6
+
+2015-01-27 20:01:22,852 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Performing step
+
+2015-01-27 20:01:22,852 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: In tick()
+
+2015-01-27 20:01:22,852 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: IntLength 10 and 10
+
+2015-01-27 20:01:22,852 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Player is: 2, 3
+
+2015-01-27 20:01:22,852 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Dot is: 2, 1
+
+2015-01-27 20:01:22,852 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EVALSIZE: 1
+
+2015-01-27 20:01:22,852 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Answer is: 2
+
+2015-01-27 20:01:22,852 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Move is 2
+
+2015-01-27 20:01:22,852 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is ...
+
+2015-01-27 20:01:22,852 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is models.dotrace.Matrix@974baf6
+
+2015-01-27 20:02:03,486 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRaceClient: postStop
+
+2015-01-27 20:02:03,487 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+ClientWS: postStop
+
+2015-01-27 20:02:04,026 - [INFO] - from play in play-internal-execution-context-46 
+Shutdown application default Akka system.
+
+2015-01-27 20:02:04,048 - [INFO] - from play in play-internal-execution-context-46 
+Application started (Dev)
+
+2015-01-27 20:02:04,417 - [INFO] - from play in play-internal-execution-context-46 
+Starting application default Akka system.
+
+2015-01-27 20:02:05,707 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: run()
+
+2015-01-27 20:02:05,708 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EvaluatorManager: load()
+
+2015-01-27 20:02:05,710 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+FileManager: Added file (/home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/11-20150127_185230_518.scala)
+
+2015-01-27 20:02:05,710 - [INFO] - from application in application-akka.actor.default-dispatcher-2 
+EvaluatorManager: Loading AI (/home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/11-20150127_185230_518.scala)
+
+2015-01-27 20:02:06,017 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: done loading evals
+
+2015-01-27 20:02:06,019 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Just started.
+
+2015-01-27 20:02:06,019 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is ...
+
+2015-01-27 20:02:06,020 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is models.dotrace.Matrix@7850b6ed
+
+2015-01-27 20:02:06,944 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRaceClient: Performing step
+
+2015-01-27 20:02:06,944 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: In tick()
+
+2015-01-27 20:02:06,945 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: IntLength 10 and 10
+
+2015-01-27 20:02:06,945 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Player is: 6, 7
+
+2015-01-27 20:02:06,946 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Dot is: 2, 1
+
+2015-01-27 20:02:06,947 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EVALSIZE: 1
+
+2015-01-27 20:02:06,948 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Answer is: 4
+
+2015-01-27 20:02:06,948 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Move is 4
+
+2015-01-27 20:02:06,948 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is ...
+
+2015-01-27 20:02:06,948 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is models.dotrace.Matrix@7850b6ed
+
+2015-01-27 20:02:08,121 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRaceClient: Performing step
+
+2015-01-27 20:02:08,121 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: In tick()
+
+2015-01-27 20:02:08,121 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: IntLength 10 and 10
+
+2015-01-27 20:02:08,121 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Player is: 5, 7
+
+2015-01-27 20:02:08,121 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Dot is: 2, 1
+
+2015-01-27 20:02:08,121 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EVALSIZE: 1
+
+2015-01-27 20:02:08,121 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Answer is: 4
+
+2015-01-27 20:02:08,121 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Move is 4
+
+2015-01-27 20:02:08,121 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is ...
+
+2015-01-27 20:02:08,122 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is models.dotrace.Matrix@7850b6ed
+
+2015-01-27 20:02:08,282 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Performing step
+
+2015-01-27 20:02:08,283 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: In tick()
+
+2015-01-27 20:02:08,283 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: IntLength 10 and 10
+
+2015-01-27 20:02:08,283 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Player is: 4, 7
+
+2015-01-27 20:02:08,283 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Dot is: 2, 1
+
+2015-01-27 20:02:08,283 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EVALSIZE: 1
+
+2015-01-27 20:02:08,283 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Answer is: 4
+
+2015-01-27 20:02:08,283 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Move is 4
+
+2015-01-27 20:02:08,283 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is ...
+
+2015-01-27 20:02:08,283 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is models.dotrace.Matrix@7850b6ed
+
+2015-01-27 20:02:08,442 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRaceClient: Performing step
+
+2015-01-27 20:02:08,443 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: In tick()
+
+2015-01-27 20:02:08,443 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: IntLength 10 and 10
+
+2015-01-27 20:02:08,443 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Player is: 3, 7
+
+2015-01-27 20:02:08,443 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Dot is: 2, 1
+
+2015-01-27 20:02:08,443 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EVALSIZE: 1
+
+2015-01-27 20:02:08,443 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Answer is: 4
+
+2015-01-27 20:02:08,443 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Move is 4
+
+2015-01-27 20:02:08,443 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is ...
+
+2015-01-27 20:02:08,443 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is models.dotrace.Matrix@7850b6ed
+
+2015-01-27 20:02:08,610 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Performing step
+
+2015-01-27 20:02:08,610 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: In tick()
+
+2015-01-27 20:02:08,610 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: IntLength 10 and 10
+
+2015-01-27 20:02:08,610 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Player is: 2, 7
+
+2015-01-27 20:02:08,610 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Dot is: 2, 1
+
+2015-01-27 20:02:08,610 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EVALSIZE: 1
+
+2015-01-27 20:02:08,610 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Answer is: 2
+
+2015-01-27 20:02:08,611 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Move is 2
+
+2015-01-27 20:02:08,611 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is ...
+
+2015-01-27 20:02:08,611 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is models.dotrace.Matrix@7850b6ed
+
+2015-01-27 20:02:08,828 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Performing step
+
+2015-01-27 20:02:08,828 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: In tick()
+
+2015-01-27 20:02:08,829 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: IntLength 10 and 10
+
+2015-01-27 20:02:08,829 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Player is: 2, 6
+
+2015-01-27 20:02:08,829 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Dot is: 2, 1
+
+2015-01-27 20:02:08,829 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EVALSIZE: 1
+
+2015-01-27 20:02:08,829 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Answer is: 2
+
+2015-01-27 20:02:08,829 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Move is 2
+
+2015-01-27 20:02:08,829 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is ...
+
+2015-01-27 20:02:08,829 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is models.dotrace.Matrix@7850b6ed
+
+2015-01-27 20:02:08,986 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRaceClient: Performing step
+
+2015-01-27 20:02:08,986 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: In tick()
+
+2015-01-27 20:02:08,986 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: IntLength 10 and 10
+
+2015-01-27 20:02:08,986 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Player is: 2, 5
+
+2015-01-27 20:02:08,986 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Dot is: 2, 1
+
+2015-01-27 20:02:08,986 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EVALSIZE: 1
+
+2015-01-27 20:02:08,986 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Answer is: 2
+
+2015-01-27 20:02:08,986 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Move is 2
+
+2015-01-27 20:02:08,986 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is ...
+
+2015-01-27 20:02:08,987 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is models.dotrace.Matrix@7850b6ed
+
+2015-01-27 20:02:09,158 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRaceClient: Performing step
+
+2015-01-27 20:02:09,158 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: In tick()
+
+2015-01-27 20:02:09,158 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: IntLength 10 and 10
+
+2015-01-27 20:02:09,158 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Player is: 2, 4
+
+2015-01-27 20:02:09,158 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Dot is: 2, 1
+
+2015-01-27 20:02:09,158 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EVALSIZE: 1
+
+2015-01-27 20:02:09,159 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Answer is: 2
+
+2015-01-27 20:02:09,159 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Move is 2
+
+2015-01-27 20:02:09,159 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is ...
+
+2015-01-27 20:02:09,159 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is models.dotrace.Matrix@7850b6ed
+
+2015-01-27 20:02:09,348 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Performing step
+
+2015-01-27 20:02:09,348 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: In tick()
+
+2015-01-27 20:02:09,348 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: IntLength 10 and 10
+
+2015-01-27 20:02:09,348 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Player is: 2, 3
+
+2015-01-27 20:02:09,348 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Dot is: 2, 1
+
+2015-01-27 20:02:09,348 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EVALSIZE: 1
+
+2015-01-27 20:02:09,348 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Answer is: 2
+
+2015-01-27 20:02:09,348 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Move is 2
+
+2015-01-27 20:02:09,348 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is ...
+
+2015-01-27 20:02:09,348 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is models.dotrace.Matrix@7850b6ed
+
+2015-01-27 20:02:09,591 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRaceClient: Performing step
+
+2015-01-27 20:02:09,591 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: In tick()
+
+2015-01-27 20:02:09,591 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: IntLength 10 and 10
+
+2015-01-27 20:02:09,591 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Player is: 2, 2
+
+2015-01-27 20:02:09,591 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Dot is: 2, 1
+
+2015-01-27 20:02:09,591 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EVALSIZE: 1
+
+2015-01-27 20:02:09,591 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Answer is: 2
+
+2015-01-27 20:02:09,591 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Move is 2
+
+2015-01-27 20:02:09,592 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Win
+
+2015-01-27 20:02:09,592 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is ...
+
+2015-01-27 20:02:09,592 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is models.dotrace.Matrix@7850b6ed
+
+2015-01-27 20:02:09,592 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRaceClient: Verified Win - 10 - ticks
+
+2015-01-27 20:03:51,051 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRaceClient: postStop
+
+2015-01-27 20:03:51,051 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+ClientWS: postStop
+
+2015-01-27 20:03:51,587 - [INFO] - from play in play-internal-execution-context-49 
+Shutdown application default Akka system.
+
+2015-01-27 20:03:51,607 - [INFO] - from play in play-internal-execution-context-49 
+Application started (Dev)
+
+2015-01-27 20:03:51,970 - [INFO] - from play in play-internal-execution-context-49 
+Starting application default Akka system.
+
+2015-01-27 20:04:12,412 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRaceClient: postStop
+
+2015-01-27 20:04:12,414 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+ClientWS: postStop
+
+2015-01-27 20:04:20,296 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRaceClient: postStop
+
+2015-01-27 20:04:20,296 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+ClientWS: postStop
+
+2015-01-27 20:04:26,948 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRaceClient: postStop
+
+2015-01-27 20:04:26,948 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+ClientWS: postStop
+
+2015-01-27 20:04:30,048 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRaceClient: postStop
+
+2015-01-27 20:04:30,048 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+ClientWS: postStop
+
+2015-01-27 20:04:41,049 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: postStop
+
+2015-01-27 20:04:41,049 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+ClientWS: postStop
+
+2015-01-27 20:05:17,119 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: postStop
+
+2015-01-27 20:05:17,120 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+ClientWS: postStop
+
+2015-01-27 20:05:55,472 - [INFO] - from play in play-internal-execution-context-48 
+Shutdown application default Akka system.
+
+2015-01-27 20:05:55,476 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRaceClient: postStop
+
+2015-01-27 20:05:55,476 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: postStop
+
+2015-01-27 20:05:55,476 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+ClientWS: postStop
+
+2015-01-27 20:05:55,476 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+ClientWS: postStop
+
+2015-01-27 20:05:55,494 - [INFO] - from play in play-internal-execution-context-48 
+Application started (Dev)
+
+2015-01-27 20:05:55,764 - [INFO] - from play in play-internal-execution-context-48 
+Starting application default Akka system.
+
+2015-01-27 20:05:56,932 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRaceClient: postStop
+
+2015-01-27 20:05:56,934 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+ClientWS: postStop
+
+2015-01-27 20:05:59,520 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRaceClient: postStop
+
+2015-01-27 20:05:59,521 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+ClientWS: postStop
+
+2015-01-27 20:06:01,752 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: postStop
+
+2015-01-27 20:06:01,753 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+ClientWS: postStop
+
+2015-01-27 20:06:03,856 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRaceClient: postStop
+
+2015-01-27 20:06:03,856 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+ClientWS: postStop
+
+2015-01-27 20:06:21,113 - [INFO] - from play in play-internal-execution-context-58 
+Shutdown application default Akka system.
+
+2015-01-27 20:06:21,114 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRaceClient: postStop
+
+2015-01-27 20:06:21,114 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+ClientWS: postStop
+
+2015-01-27 20:06:21,134 - [INFO] - from play in play-internal-execution-context-58 
+Application started (Dev)
+
+2015-01-27 20:06:21,378 - [INFO] - from play in play-internal-execution-context-58 
+Starting application default Akka system.
+
+2015-01-27 20:07:40,271 - [INFO] - from play in play-internal-execution-context-55 
+Shutdown application default Akka system.
+
+2015-01-27 20:07:40,273 - [DEBUG] - from application in application-akka.actor.default-dispatcher-7 
+DotRaceClient: postStop
+
+2015-01-27 20:07:40,273 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRaceClient: postStop
+
+2015-01-27 20:07:40,274 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+ClientWS: postStop
+
+2015-01-27 20:07:40,274 - [DEBUG] - from application in application-akka.actor.default-dispatcher-8 
+ClientWS: postStop
+
+2015-01-27 20:07:40,288 - [INFO] - from play in play-internal-execution-context-55 
+Application started (Dev)
+
+2015-01-27 20:07:40,545 - [INFO] - from play in play-internal-execution-context-55 
+Starting application default Akka system.
+
+2015-01-27 20:08:16,799 - [INFO] - from play in play-internal-execution-context-63 
+Shutdown application default Akka system.
+
+2015-01-27 20:08:16,801 - [DEBUG] - from application in application-akka.actor.default-dispatcher-6 
+DotRaceClient: postStop
+
+2015-01-27 20:08:16,801 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+ClientWS: postStop
+
+2015-01-27 20:08:16,814 - [INFO] - from play in play-internal-execution-context-63 
+Application started (Dev)
+
+2015-01-27 20:08:17,204 - [INFO] - from play in play-internal-execution-context-63 
+Starting application default Akka system.
+
+2015-01-27 20:08:23,726 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: postStop
+
+2015-01-27 20:08:23,728 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+ClientWS: postStop
+
+2015-01-27 20:08:37,641 - [INFO] - from play in play-internal-execution-context-65 
+Shutdown application default Akka system.
+
+2015-01-27 20:08:37,642 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRaceClient: postStop
+
+2015-01-27 20:08:37,642 - [DEBUG] - from application in application-akka.actor.default-dispatcher-6 
+ClientWS: postStop
+
+2015-01-27 20:08:37,642 - [DEBUG] - from application in application-akka.actor.default-dispatcher-7 
+DotRaceClient: postStop
+
+2015-01-27 20:08:37,642 - [DEBUG] - from application in application-akka.actor.default-dispatcher-6 
+ClientWS: postStop
+
+2015-01-27 20:08:37,667 - [INFO] - from play in play-internal-execution-context-65 
+Application started (Dev)
+
+2015-01-27 20:08:37,915 - [INFO] - from play in play-internal-execution-context-65 
+Starting application default Akka system.
+
+2015-01-27 20:08:38,944 - [DEBUG] - from application in application-akka.actor.default-dispatcher-7 
+DotRaceClient: postStop
+
+2015-01-27 20:08:38,945 - [DEBUG] - from application in application-akka.actor.default-dispatcher-6 
+ClientWS: postStop
+
+2015-01-27 20:08:54,709 - [INFO] - from play in play-internal-execution-context-66 
+Shutdown application default Akka system.
+
+2015-01-27 20:08:54,709 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRaceClient: postStop
+
+2015-01-27 20:08:54,709 - [DEBUG] - from application in application-akka.actor.default-dispatcher-6 
+ClientWS: postStop
+
+2015-01-27 20:08:54,726 - [INFO] - from play in play-internal-execution-context-66 
+Application started (Dev)
+
+2015-01-27 20:08:54,956 - [INFO] - from play in play-internal-execution-context-66 
+Starting application default Akka system.
+
+2015-01-27 20:09:26,829 - [INFO] - from play in play-internal-execution-context-62 
+Shutdown application default Akka system.
+
+2015-01-27 20:09:26,831 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRaceClient: postStop
+
+2015-01-27 20:09:26,831 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+ClientWS: postStop
+
+2015-01-27 20:09:26,846 - [INFO] - from play in play-internal-execution-context-62 
+Application started (Dev)
+
+2015-01-27 20:09:27,063 - [INFO] - from play in play-internal-execution-context-62 
+Starting application default Akka system.
+
+2015-01-27 20:09:32,432 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRaceClient: postStop
+
+2015-01-27 20:09:32,433 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+ClientWS: postStop
+
+2015-01-27 20:09:35,001 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRaceClient: run()
+
+2015-01-27 20:09:35,001 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+EvaluatorManager: load()
+
+2015-01-27 20:09:35,002 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+FileManager: Added file (/home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/11-20150127_185230_518.scala)
+
+2015-01-27 20:09:35,003 - [INFO] - from application in application-akka.actor.default-dispatcher-4 
+EvaluatorManager: Loading AI (/home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/11-20150127_185230_518.scala)
+
+2015-01-27 20:09:35,270 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: done loading evals
+
+2015-01-27 20:09:35,272 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRaceClient: Just started.
+
+2015-01-27 20:09:35,272 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: UpdateCmd is ...
+
+2015-01-27 20:09:35,273 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: UpdateCmd is models.dotrace.Matrix@7de8cd6c
+
+2015-01-27 20:09:36,684 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Performing step
+
+2015-01-27 20:09:36,684 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: In tick()
+
+2015-01-27 20:09:36,685 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: IntLength 10 and 10
+
+2015-01-27 20:09:36,686 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Player is: 1, 7
+
+2015-01-27 20:09:36,686 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Dot is: 3, 9
+
+2015-01-27 20:09:36,689 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EVALSIZE: 1
+
+2015-01-27 20:09:36,689 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Answer is: 3
+
+2015-01-27 20:09:36,690 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Move is 3
+
+2015-01-27 20:09:36,690 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is ...
+
+2015-01-27 20:09:36,690 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is models.dotrace.Matrix@7de8cd6c
+
+2015-01-27 20:09:39,433 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: postStop
+
+2015-01-27 20:09:39,434 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+ClientWS: postStop
+
+2015-01-27 20:09:41,740 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: postStop
+
+2015-01-27 20:09:41,741 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+ClientWS: postStop
+
+2015-01-27 20:09:45,732 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: run()
+
+2015-01-27 20:09:45,732 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EvaluatorManager: load()
+
+2015-01-27 20:09:45,733 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+FileManager: Added file (/home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/11-20150127_185230_518.scala)
+
+2015-01-27 20:09:45,733 - [INFO] - from application in application-akka.actor.default-dispatcher-2 
+EvaluatorManager: Loading AI (/home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/11-20150127_185230_518.scala)
+
+2015-01-27 20:09:46,003 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: done loading evals
+
+2015-01-27 20:09:46,003 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Just started.
+
+2015-01-27 20:09:46,004 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is ...
+
+2015-01-27 20:09:46,004 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is models.dotrace.Matrix@7bf74536
+
+2015-01-27 20:09:47,812 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: run()
+
+2015-01-27 20:09:47,813 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EvaluatorManager: load()
+
+2015-01-27 20:09:47,813 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+FileManager: Added file (/home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/11-20150127_185230_518.scala)
+
+2015-01-27 20:09:47,813 - [INFO] - from application in application-akka.actor.default-dispatcher-2 
+EvaluatorManager: Loading AI (/home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/11-20150127_185230_518.scala)
+
+2015-01-27 20:09:48,086 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: done loading evals
+
+2015-01-27 20:09:48,086 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Just started.
+
+2015-01-27 20:09:48,086 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is ...
+
+2015-01-27 20:09:48,086 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is models.dotrace.Matrix@77e6ebdd
+
+2015-01-27 20:09:48,564 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRaceClient: run()
+
+2015-01-27 20:09:48,564 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+EvaluatorManager: load()
+
+2015-01-27 20:09:48,564 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+FileManager: Added file (/home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/11-20150127_185230_518.scala)
+
+2015-01-27 20:09:48,564 - [INFO] - from application in application-akka.actor.default-dispatcher-4 
+EvaluatorManager: Loading AI (/home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/11-20150127_185230_518.scala)
+
+2015-01-27 20:09:48,834 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: done loading evals
+
+2015-01-27 20:09:48,834 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRaceClient: Just started.
+
+2015-01-27 20:09:48,834 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: UpdateCmd is ...
+
+2015-01-27 20:09:48,834 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: UpdateCmd is models.dotrace.Matrix@494b057d
+
+2015-01-27 20:09:49,365 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: run()
+
+2015-01-27 20:09:49,365 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EvaluatorManager: load()
+
+2015-01-27 20:09:49,366 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+FileManager: Added file (/home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/11-20150127_185230_518.scala)
+
+2015-01-27 20:09:49,366 - [INFO] - from application in application-akka.actor.default-dispatcher-2 
+EvaluatorManager: Loading AI (/home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/11-20150127_185230_518.scala)
+
+2015-01-27 20:09:49,607 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: done loading evals
+
+2015-01-27 20:09:49,608 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Just started.
+
+2015-01-27 20:09:49,608 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is ...
+
+2015-01-27 20:09:49,608 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is models.dotrace.Matrix@4be41fc7
+
+2015-01-27 20:09:50,094 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRaceClient: run()
+
+2015-01-27 20:09:50,094 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+EvaluatorManager: load()
+
+2015-01-27 20:09:50,095 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+FileManager: Added file (/home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/11-20150127_185230_518.scala)
+
+2015-01-27 20:09:50,095 - [INFO] - from application in application-akka.actor.default-dispatcher-4 
+EvaluatorManager: Loading AI (/home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/11-20150127_185230_518.scala)
+
+2015-01-27 20:09:50,395 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: done loading evals
+
+2015-01-27 20:09:50,395 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRaceClient: Just started.
+
+2015-01-27 20:09:50,395 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: UpdateCmd is ...
+
+2015-01-27 20:09:50,395 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: UpdateCmd is models.dotrace.Matrix@7ecae6c
+
+2015-01-27 20:09:50,785 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: run()
+
+2015-01-27 20:09:50,785 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EvaluatorManager: load()
+
+2015-01-27 20:09:50,785 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+FileManager: Added file (/home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/11-20150127_185230_518.scala)
+
+2015-01-27 20:09:50,785 - [INFO] - from application in application-akka.actor.default-dispatcher-2 
+EvaluatorManager: Loading AI (/home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/11-20150127_185230_518.scala)
+
+2015-01-27 20:09:51,080 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: done loading evals
+
+2015-01-27 20:09:51,080 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Just started.
+
+2015-01-27 20:09:51,080 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is ...
+
+2015-01-27 20:09:51,080 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is models.dotrace.Matrix@6a361b63
+
+2015-01-27 20:09:51,650 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRaceClient: run()
+
+2015-01-27 20:09:51,650 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+EvaluatorManager: load()
+
+2015-01-27 20:09:51,650 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+FileManager: Added file (/home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/11-20150127_185230_518.scala)
+
+2015-01-27 20:09:51,651 - [INFO] - from application in application-akka.actor.default-dispatcher-4 
+EvaluatorManager: Loading AI (/home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/11-20150127_185230_518.scala)
+
+2015-01-27 20:09:51,924 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: done loading evals
+
+2015-01-27 20:09:51,925 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRaceClient: Just started.
+
+2015-01-27 20:09:51,925 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: UpdateCmd is ...
+
+2015-01-27 20:09:51,925 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+DotRace: UpdateCmd is models.dotrace.Matrix@23558b26
+
+2015-01-27 20:10:29,874 - [INFO] - from play in play-internal-execution-context-67 
+Shutdown application default Akka system.
+
+2015-01-27 20:10:29,875 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRaceClient: postStop
+
+2015-01-27 20:10:29,875 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+ClientWS: postStop
+
+2015-01-27 20:10:29,897 - [INFO] - from play in play-internal-execution-context-67 
+Application started (Dev)
+
+2015-01-27 20:10:30,145 - [INFO] - from play in play-internal-execution-context-67 
+Starting application default Akka system.
+
+2015-01-27 20:10:32,077 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: run()
+
+2015-01-27 20:10:32,078 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EvaluatorManager: load()
+
+2015-01-27 20:10:32,079 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+FileManager: Added file (/home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/11-20150127_185230_518.scala)
+
+2015-01-27 20:10:32,079 - [INFO] - from application in application-akka.actor.default-dispatcher-2 
+EvaluatorManager: Loading AI (/home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/11-20150127_185230_518.scala)
+
+2015-01-27 20:10:32,361 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: done loading evals
+
+2015-01-27 20:10:32,363 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Just started.
+
+2015-01-27 20:10:32,363 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is ...
+
+2015-01-27 20:10:32,363 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is models.dotrace.Matrix@2e906574
+
+2015-01-27 20:10:33,449 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRaceClient: Performing step
+
+2015-01-27 20:10:33,450 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: In tick()
+
+2015-01-27 20:10:33,452 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: IntLength 10 and 10
+
+2015-01-27 20:10:33,453 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+Player is: 9, 1
+
+2015-01-27 20:10:33,454 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+Dot is: 1, 4
+
+2015-01-27 20:10:33,457 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+EVALSIZE: 1
+
+2015-01-27 20:10:33,458 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: Answer is: 4
+
+2015-01-27 20:10:33,458 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: Move is 4
+
+2015-01-27 20:10:33,459 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: UpdateCmd is ...
+
+2015-01-27 20:10:33,459 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: UpdateCmd is models.dotrace.Matrix@2e906574
+
+2015-01-27 20:10:33,935 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Performing step
+
+2015-01-27 20:10:33,935 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: In tick()
+
+2015-01-27 20:10:33,935 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: IntLength 10 and 10
+
+2015-01-27 20:10:33,935 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Player is: 8, 1
+
+2015-01-27 20:10:33,935 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Dot is: 1, 4
+
+2015-01-27 20:10:33,936 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EVALSIZE: 1
+
+2015-01-27 20:10:33,936 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Answer is: 4
+
+2015-01-27 20:10:33,936 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Move is 4
+
+2015-01-27 20:10:33,936 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is ...
+
+2015-01-27 20:10:33,936 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is models.dotrace.Matrix@2e906574
+
+2015-01-27 20:10:34,080 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Performing step
+
+2015-01-27 20:10:34,080 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: In tick()
+
+2015-01-27 20:10:34,080 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: IntLength 10 and 10
+
+2015-01-27 20:10:34,080 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Player is: 7, 1
+
+2015-01-27 20:10:34,080 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Dot is: 1, 4
+
+2015-01-27 20:10:34,081 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EVALSIZE: 1
+
+2015-01-27 20:10:34,081 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Answer is: 4
+
+2015-01-27 20:10:34,081 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Move is 4
+
+2015-01-27 20:10:34,081 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is ...
+
+2015-01-27 20:10:34,081 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is models.dotrace.Matrix@2e906574
+
+2015-01-27 20:10:34,238 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRaceClient: Performing step
+
+2015-01-27 20:10:34,238 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: In tick()
+
+2015-01-27 20:10:34,238 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: IntLength 10 and 10
+
+2015-01-27 20:10:34,238 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+Player is: 6, 1
+
+2015-01-27 20:10:34,238 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+Dot is: 1, 4
+
+2015-01-27 20:10:34,239 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+EVALSIZE: 1
+
+2015-01-27 20:10:34,239 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: Answer is: 4
+
+2015-01-27 20:10:34,239 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: Move is 4
+
+2015-01-27 20:10:34,239 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: UpdateCmd is ...
+
+2015-01-27 20:10:34,239 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: UpdateCmd is models.dotrace.Matrix@2e906574
+
+2015-01-27 20:10:34,406 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Performing step
+
+2015-01-27 20:10:34,407 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: In tick()
+
+2015-01-27 20:10:34,407 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: IntLength 10 and 10
+
+2015-01-27 20:10:34,407 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Player is: 5, 1
+
+2015-01-27 20:10:34,407 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Dot is: 1, 4
+
+2015-01-27 20:10:34,407 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EVALSIZE: 1
+
+2015-01-27 20:10:34,407 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Answer is: 4
+
+2015-01-27 20:10:34,407 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Move is 4
+
+2015-01-27 20:10:34,407 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is ...
+
+2015-01-27 20:10:34,407 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is models.dotrace.Matrix@2e906574
+
+2015-01-27 20:10:34,673 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Performing step
+
+2015-01-27 20:10:34,673 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: In tick()
+
+2015-01-27 20:10:34,673 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: IntLength 10 and 10
+
+2015-01-27 20:10:34,673 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Player is: 4, 1
+
+2015-01-27 20:10:34,673 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Dot is: 1, 4
+
+2015-01-27 20:10:34,673 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EVALSIZE: 1
+
+2015-01-27 20:10:34,673 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Answer is: 4
+
+2015-01-27 20:10:34,673 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Move is 4
+
+2015-01-27 20:10:34,673 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is ...
+
+2015-01-27 20:10:34,673 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is models.dotrace.Matrix@2e906574
+
+2015-01-27 20:10:34,878 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Performing step
+
+2015-01-27 20:10:34,879 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: In tick()
+
+2015-01-27 20:10:34,879 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: IntLength 10 and 10
+
+2015-01-27 20:10:34,879 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Player is: 3, 1
+
+2015-01-27 20:10:34,879 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Dot is: 1, 4
+
+2015-01-27 20:10:34,879 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EVALSIZE: 1
+
+2015-01-27 20:10:34,879 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Answer is: 4
+
+2015-01-27 20:10:34,879 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Move is 4
+
+2015-01-27 20:10:34,879 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is ...
+
+2015-01-27 20:10:34,879 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is models.dotrace.Matrix@2e906574
+
+2015-01-27 20:10:35,086 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Performing step
+
+2015-01-27 20:10:35,086 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: In tick()
+
+2015-01-27 20:10:35,086 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: IntLength 10 and 10
+
+2015-01-27 20:10:35,086 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Player is: 2, 1
+
+2015-01-27 20:10:35,086 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Dot is: 1, 4
+
+2015-01-27 20:10:35,086 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EVALSIZE: 1
+
+2015-01-27 20:10:35,086 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Answer is: 4
+
+2015-01-27 20:10:35,086 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Move is 4
+
+2015-01-27 20:10:35,086 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is ...
+
+2015-01-27 20:10:35,086 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is models.dotrace.Matrix@2e906574
+
+2015-01-27 20:10:35,280 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRaceClient: Performing step
+
+2015-01-27 20:10:35,280 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: In tick()
+
+2015-01-27 20:10:35,280 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: IntLength 10 and 10
+
+2015-01-27 20:10:35,280 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+Player is: 1, 1
+
+2015-01-27 20:10:35,280 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+Dot is: 1, 4
+
+2015-01-27 20:10:35,280 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+EVALSIZE: 1
+
+2015-01-27 20:10:35,280 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: Answer is: 1
+
+2015-01-27 20:10:35,281 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: Move is 1
+
+2015-01-27 20:10:35,281 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: UpdateCmd is ...
+
+2015-01-27 20:10:35,281 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: UpdateCmd is models.dotrace.Matrix@2e906574
+
+2015-01-27 20:10:35,635 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRaceClient: Performing step
+
+2015-01-27 20:10:35,635 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: In tick()
+
+2015-01-27 20:10:35,635 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: IntLength 10 and 10
+
+2015-01-27 20:10:35,635 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+Player is: 1, 2
+
+2015-01-27 20:10:35,635 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+Dot is: 1, 4
+
+2015-01-27 20:10:35,635 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+EVALSIZE: 1
+
+2015-01-27 20:10:35,635 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: Answer is: 1
+
+2015-01-27 20:10:35,635 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: Move is 1
+
+2015-01-27 20:10:35,635 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: UpdateCmd is ...
+
+2015-01-27 20:10:35,635 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: UpdateCmd is models.dotrace.Matrix@2e906574
+
+2015-01-27 20:10:35,937 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Performing step
+
+2015-01-27 20:10:35,937 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: In tick()
+
+2015-01-27 20:10:35,937 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: IntLength 10 and 10
+
+2015-01-27 20:10:35,938 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Player is: 1, 3
+
+2015-01-27 20:10:35,938 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+Dot is: 1, 4
+
+2015-01-27 20:10:35,938 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+EVALSIZE: 1
+
+2015-01-27 20:10:35,938 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Answer is: 1
+
+2015-01-27 20:10:35,938 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Move is 1
+
+2015-01-27 20:10:35,939 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: Win
+
+2015-01-27 20:10:35,939 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is ...
+
+2015-01-27 20:10:35,939 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRace: UpdateCmd is models.dotrace.Matrix@2e906574
+
+2015-01-27 20:10:35,939 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: Verified Win - 11 - ticks
+
+2015-01-27 20:10:37,046 - [DEBUG] - from application in application-akka.actor.default-dispatcher-2 
+DotRaceClient: postStop
+
+2015-01-27 20:10:37,046 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+ClientWS: postStop
+
+2015-01-27 20:10:38,864 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRaceClient: run()
+
+2015-01-27 20:10:38,864 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+EvaluatorManager: load()
+
+2015-01-27 20:10:38,864 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+FileManager: Added file (/home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/11-20150127_185230_518.scala)
+
+2015-01-27 20:10:38,864 - [INFO] - from application in application-akka.actor.default-dispatcher-5 
+EvaluatorManager: Loading AI (/home/edgar/Projects/scalaai/app/scalajvm/private/submissions/dotrace/11-20150127_185230_518.scala)
+
+2015-01-27 20:10:39,136 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: done loading evals
+
+2015-01-27 20:10:39,136 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRaceClient: Just started.
+
+2015-01-27 20:10:39,136 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: UpdateCmd is ...
+
+2015-01-27 20:10:39,136 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: UpdateCmd is models.dotrace.Matrix@371f72c4
+
+2015-01-27 20:10:39,607 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRaceClient: Performing step
+
+2015-01-27 20:10:39,607 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: In tick()
+
+2015-01-27 20:10:39,608 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: IntLength 10 and 10
+
+2015-01-27 20:10:39,608 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+Player is: 8, 8
+
+2015-01-27 20:10:39,608 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+Dot is: 4, 3
+
+2015-01-27 20:10:39,610 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+EVALSIZE: 1
+
+2015-01-27 20:10:39,610 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: Answer is: 4
+
+2015-01-27 20:10:39,610 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: Move is 4
+
+2015-01-27 20:10:39,610 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: UpdateCmd is ...
+
+2015-01-27 20:10:39,610 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: UpdateCmd is models.dotrace.Matrix@371f72c4
+
+2015-01-27 20:10:39,754 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRaceClient: Performing step
+
+2015-01-27 20:10:39,754 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: In tick()
+
+2015-01-27 20:10:39,755 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: IntLength 10 and 10
+
+2015-01-27 20:10:39,755 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Player is: 7, 8
+
+2015-01-27 20:10:39,755 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Dot is: 4, 3
+
+2015-01-27 20:10:39,755 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EVALSIZE: 1
+
+2015-01-27 20:10:39,755 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Answer is: 4
+
+2015-01-27 20:10:39,755 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Move is 4
+
+2015-01-27 20:10:39,755 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is ...
+
+2015-01-27 20:10:39,755 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is models.dotrace.Matrix@371f72c4
+
+2015-01-27 20:10:39,911 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRaceClient: Performing step
+
+2015-01-27 20:10:39,911 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: In tick()
+
+2015-01-27 20:10:39,911 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: IntLength 10 and 10
+
+2015-01-27 20:10:39,911 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+Player is: 6, 8
+
+2015-01-27 20:10:39,911 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+Dot is: 4, 3
+
+2015-01-27 20:10:39,911 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+EVALSIZE: 1
+
+2015-01-27 20:10:39,911 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: Answer is: 4
+
+2015-01-27 20:10:39,911 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: Move is 4
+
+2015-01-27 20:10:39,911 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: UpdateCmd is ...
+
+2015-01-27 20:10:39,911 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: UpdateCmd is models.dotrace.Matrix@371f72c4
+
+2015-01-27 20:10:40,069 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRaceClient: Performing step
+
+2015-01-27 20:10:40,069 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: In tick()
+
+2015-01-27 20:10:40,069 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: IntLength 10 and 10
+
+2015-01-27 20:10:40,069 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Player is: 5, 8
+
+2015-01-27 20:10:40,069 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Dot is: 4, 3
+
+2015-01-27 20:10:40,069 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EVALSIZE: 1
+
+2015-01-27 20:10:40,069 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Answer is: 4
+
+2015-01-27 20:10:40,069 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Move is 4
+
+2015-01-27 20:10:40,069 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is ...
+
+2015-01-27 20:10:40,069 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is models.dotrace.Matrix@371f72c4
+
+2015-01-27 20:10:40,238 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRaceClient: Performing step
+
+2015-01-27 20:10:40,239 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: In tick()
+
+2015-01-27 20:10:40,239 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: IntLength 10 and 10
+
+2015-01-27 20:10:40,239 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Player is: 4, 8
+
+2015-01-27 20:10:40,239 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Dot is: 4, 3
+
+2015-01-27 20:10:40,239 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EVALSIZE: 1
+
+2015-01-27 20:10:40,239 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Answer is: 2
+
+2015-01-27 20:10:40,239 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Move is 2
+
+2015-01-27 20:10:40,239 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is ...
+
+2015-01-27 20:10:40,239 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is models.dotrace.Matrix@371f72c4
+
+2015-01-27 20:10:40,431 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRaceClient: Performing step
+
+2015-01-27 20:10:40,432 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: In tick()
+
+2015-01-27 20:10:40,432 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: IntLength 10 and 10
+
+2015-01-27 20:10:40,432 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Player is: 4, 7
+
+2015-01-27 20:10:40,432 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Dot is: 4, 3
+
+2015-01-27 20:10:40,432 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EVALSIZE: 1
+
+2015-01-27 20:10:40,432 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Answer is: 2
+
+2015-01-27 20:10:40,432 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Move is 2
+
+2015-01-27 20:10:40,432 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is ...
+
+2015-01-27 20:10:40,432 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is models.dotrace.Matrix@371f72c4
+
+2015-01-27 20:10:40,625 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRaceClient: Performing step
+
+2015-01-27 20:10:40,625 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: In tick()
+
+2015-01-27 20:10:40,625 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: IntLength 10 and 10
+
+2015-01-27 20:10:40,625 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Player is: 4, 6
+
+2015-01-27 20:10:40,625 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+Dot is: 4, 3
+
+2015-01-27 20:10:40,625 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+EVALSIZE: 1
+
+2015-01-27 20:10:40,625 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Answer is: 2
+
+2015-01-27 20:10:40,625 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: Move is 2
+
+2015-01-27 20:10:40,625 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is ...
+
+2015-01-27 20:10:40,625 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+DotRace: UpdateCmd is models.dotrace.Matrix@371f72c4
+
+2015-01-27 20:10:40,857 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRaceClient: Performing step
+
+2015-01-27 20:10:40,857 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: In tick()
+
+2015-01-27 20:10:40,857 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: IntLength 10 and 10
+
+2015-01-27 20:10:40,857 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+Player is: 4, 5
+
+2015-01-27 20:10:40,857 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+Dot is: 4, 3
+
+2015-01-27 20:10:40,857 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+EVALSIZE: 1
+
+2015-01-27 20:10:40,857 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: Answer is: 2
+
+2015-01-27 20:10:40,857 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: Move is 2
+
+2015-01-27 20:10:40,857 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: UpdateCmd is ...
+
+2015-01-27 20:10:40,857 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: UpdateCmd is models.dotrace.Matrix@371f72c4
+
+2015-01-27 20:10:41,185 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRaceClient: Performing step
+
+2015-01-27 20:10:41,185 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: In tick()
+
+2015-01-27 20:10:41,185 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: IntLength 10 and 10
+
+2015-01-27 20:10:41,185 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+Player is: 4, 4
+
+2015-01-27 20:10:41,185 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+Dot is: 4, 3
+
+2015-01-27 20:10:41,185 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+EVALSIZE: 1
+
+2015-01-27 20:10:41,185 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: Answer is: 2
+
+2015-01-27 20:10:41,185 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: Move is 2
+
+2015-01-27 20:10:41,185 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: Win
+
+2015-01-27 20:10:41,185 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: UpdateCmd is ...
+
+2015-01-27 20:10:41,186 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRace: UpdateCmd is models.dotrace.Matrix@371f72c4
+
+2015-01-27 20:10:41,186 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+DotRaceClient: Verified Win - 9 - ticks
+

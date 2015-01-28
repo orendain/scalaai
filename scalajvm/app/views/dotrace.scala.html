@@ -1,0 +1,14 @@
+@main("Dot Race | Scala AI") {
+  <div id="dotrace_screen">
+    <canvas style="display: block;" id="maincanvas" width="700" height="400px">
+  </canvas>
+    <button id="step" class="btn btn-big">Step</button>
+  </div>
+
+  <script>
+    SJSDotRace().launch(
+      document.getElementById("dotrace_screen"),
+      document.getElementById("maincanvas")
+    );
+  </script>
+}

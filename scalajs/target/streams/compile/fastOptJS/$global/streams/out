@@ -1,0 +1,12 @@
+[0m[[0minfo[0m] [0mFast optimizing /home/edgar/Projects/scalaai/app/scalajvm/target/scala-2.11/classes/public/javascripts/scalajs-scalaai-fastopt.js[0m
+[0m[[0mdebug[0m] [0mRead info: 3044 us[0m
+[0m[[0mdebug[0m] [0mCompute reachability: 32342 us[0m
+[0m[[0mdebug[0m] [0mOptimizer batch mode: false[0m
+[0m[[0mdebug[0m] [0mIncremental part of inc. optimizer: 4657 us[0m
+[0m[[0mdebug[0m] [0mOptimizing 15 methods.[0m
+[0m[[0mdebug[0m] [0mOptimizer part of inc. optimizer: 2550 us[0m
+[0m[[0mdebug[0m] [0mInliner: 7402 us[0m
+[0m[[0mdebug[0m] [0mRefined reachability analysis: 30409 us[0m
+[0m[[0mdebug[0m] [0mOptimizations part: 70354 us[0m
+[0m[[0mdebug[0m] [0mWrite DCE'ed output: 117193 us[0m
+[0m[[0mdebug[0m] [0mInc. opt stats: reused: 3536 -- invalidated: 1 -- trees read: 1[0m

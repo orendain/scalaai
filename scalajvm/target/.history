@@ -1,0 +1,3 @@
+run
+show runtime:dependencyClasspath
+~run

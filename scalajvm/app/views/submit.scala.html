@@ -1,0 +1,27 @@
+@(submitForm: Form[models.SubmitForm])(implicit token: play.filters.csrf.CSRF.Token)
+
+@import helper._
+
+@implicitFieldConstructor = @{ FieldConstructor(helpers.bootstrapInputField.f) }
+
+@main(title = "Submit your AI | Scala AI") {
+
+  @helper.form(action = routes.Application.submitCode,
+    'id -> "submit-form",
+    'enctype -> "multipart/form-data") {
+
+      @CSRF.formField
+
+      @textarea(submitForm("code"),
+        '_label -> "_none",
+        'placeholder -> "Paste your AI code here"
+      )
+
+      @inputText(submitForm("id"),
+        '_label -> "_none",
+        'placeholder -> "Enter an integer ID"
+      )
+
+      <button type="submit" class="btn btn-big btn-submit">Submit</button>
+  }
+}

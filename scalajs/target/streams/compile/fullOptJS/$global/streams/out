@@ -1,0 +1,15 @@
+[0m[[0minfo[0m] [0mDirect Optimizing /home/edgar/Projects/scalaai/app/scalajvm/target/scala-2.11/classes/public/javascripts/scalajs-scalaai-opt.js[0m
+[0m[[0mdebug[0m] [0mRead info: 98135 us[0m
+[0m[[0mdebug[0m] [0mCompute reachability: 105232 us[0m
+[0m[[0mdebug[0m] [0mOptimizer batch mode: true[0m
+[0m[[0mdebug[0m] [0mIncremental part of inc. optimizer: 108703 us[0m
+[0m[[0mdebug[0m] [0mOptimizing 138 methods.[0m
+[0m[[0mdebug[0m] [0mOptimizer part of inc. optimizer: 156897 us[0m
+[0m[[0mdebug[0m] [0mInliner: 267806 us[0m
+[0m[[0mdebug[0m] [0mRefined reachability analysis: 59969 us[0m
+[0m[[0mdebug[0m] [0mOptimizations part: 434796 us[0m
+[0m[[0mdebug[0m] [0mWrite DCE'ed output: 166453 us[0m
+[0m[[0mdebug[0m] [0mInc. opt stats: reused: 0 -- invalidated: 3342 -- trees read: 31[0m
+[0m[[0minfo[0m] [0mClosure: 0 error(s), 0 warning(s)[0m
+[0m[[0mdebug[0m] [0mClosure Compiler pass: 1908101 us[0m
+[0m[[0mdebug[0m] [0mWrite Closure result: 92834 us[0m
